@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_earth",
+	"rune_enchant": "minecraft:protection",	
+	"level": 4,
+	"items":
+	[								
+		"minecraft:diamond_boots",
+		"minecraft:diamond_leggings",
+		"minecraft:diamond_chestplate",
+		"minecraft:diamond_helmet",
+		"minecraft:shield",
+		"mana-and-artifice:rune_defense",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:enchantment_focus_earth"
+	]
+}

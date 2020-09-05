@@ -1,0 +1,14 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_air",
+	"rune_enchant": "minecraft:power",	
+	"level": 2,
+	"items":
+	[								
+		"minecraft:gunpowder",
+		"minecraft:crossbow",
+		"minecraft:gunpowder",
+		"minecraft:flint_and_steel"
+	]
+}

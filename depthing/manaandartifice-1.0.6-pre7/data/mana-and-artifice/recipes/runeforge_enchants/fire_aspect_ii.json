@@ -1,0 +1,15 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_fire",
+	"rune_enchant": "minecraft:fire_aspect",	
+	"level": 2,
+	"items":
+	[
+		"minecraft:blaze_powder",
+		"minecraft:blaze_powder",
+		"minecraft:magma_cream",
+		"minecraft:magma_cream",
+		"mana-and-artifice:enchantment_focus_fire"
+	]
+}

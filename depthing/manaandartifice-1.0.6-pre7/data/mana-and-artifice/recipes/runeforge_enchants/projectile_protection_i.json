@@ -1,0 +1,11 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_earth",
+	"rune_enchant": "minecraft:projectile_protection",	
+	"level": 1,
+	"items":
+	[								
+		"minecraft:shield"
+	]
+}

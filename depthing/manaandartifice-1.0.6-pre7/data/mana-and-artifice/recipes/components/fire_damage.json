@@ -1,0 +1,21 @@
+{
+	"type": "mana-and-artifice:component",
+	"tier": 1,
+	"output": "mana-and-artifice:fire_damage",
+	"items":
+	[
+		"mana-and-artifice:stone_rune_red",
+		"mana-and-artifice:stone_rune_black",
+		"mana-and-artifice:stone_rune_orange",
+		"mana-and-artifice:stone_rune_yellow",
+		"mana-and-artifice:superheated_vinteum_ingot",
+		"mana-and-artifice:superheated_vinteum_ingot",
+		"minecraft:flint_and_steel"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/square",
+		"mana-and-artifice:manaweave_patterns/triangle"
+	]
+}

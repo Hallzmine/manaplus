@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 5,
+	"output": "mana-and-artifice:rune_water",
+	"enchant": "minecraft:lure",
+	"magnitude": 3,
+	"items": [
+		"mana-and-artifice:rune_water",
+		"minecraft:clock",
+		"minecraft:quartz_block"
+	],
+	"patterns": [
+		"mana-and-artifice:manaweave_patterns/hourglass",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle",
+		"mana-and-artifice:manaweave_patterns/triangle"
+	]
+}

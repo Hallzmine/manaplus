@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 4,
+	"output": "mana-and-artifice:rune_fire",
+	"enchant": "minecraft:flame",
+	"magnitude": 1,
+	"items": [
+		"mana-and-artifice:rune_fire",
+		"mana-and-artifice:arcane_ash",
+		"minecraft:blaze_rod"
+	],
+	"patterns": [
+		"mana-and-artifice:triangle",
+		"mana-and-artifice:knot2",
+		"mana-and-artifice:split_triangle"
+	]
+}

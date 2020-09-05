@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_water",
+	"rune_enchant": "minecraft:respiration",	
+	"level": 2,
+	"items":
+	[
+		"minecraft:turtle_helmet",
+		"mana-and-artifice:stone_rune_white",
+		"mana-and-artifice:stone_rune_light_blue",
+		"mana-and-artifice:stone_rune_white",
+		"mana-and-artifice:stone_rune_light_blue",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:vinteum_dust"
+	]
+}

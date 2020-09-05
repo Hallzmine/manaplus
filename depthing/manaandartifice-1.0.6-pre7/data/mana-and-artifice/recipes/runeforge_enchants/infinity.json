@@ -1,0 +1,15 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_air",
+	"rune_enchant": "minecraft:infinity",	
+	"level": 1,
+	"items":
+	[		
+		"minecraft:spectral_arrow",
+		"minecraft:spectral_arrow",		
+		"minecraft:bow",
+		"minecraft:crossbow",
+		"mana-and-artifice:enchantment_focus_air"		
+	]
+}

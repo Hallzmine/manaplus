@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "mana-and-artifice:vinteum_ore"
+  },
+  "result": "mana-and-artifice:vinteum_dust",
+  "experience": 0.7,
+  "cookingtime": 100
+}

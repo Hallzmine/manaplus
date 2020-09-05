@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 1,
+	"output": "mana-and-artifice:infused_silk",
+	"items":
+	[
+		"minecraft:wool",
+		"minecraft:string",
+		"mana-and-artifice:ritual_focus_minor"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:triangle",
+		"mana-and-artifice:circle",
+		"mana-and-artifice:square",
+		"mana-and-artifice:triangle"
+	]
+}

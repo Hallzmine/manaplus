@@ -1,0 +1,21 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:slowfall",
+	"tier": 2,
+	"items":
+	[
+		"mana-and-artifice:stone_rune_white",
+		"feather",		
+		"leather_boots",
+		"wheat",
+		"ghast_tear",
+		"mana-and-artifice:vinteum_dust"		
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/inverted_triangle",
+		"mana-and-artifice:manaweave_patterns/knot2",
+		"mana-and-artifice:manaweave_patterns/knot4",
+		"mana-and-artifice:manaweave_patterns/triangle"
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_fire",
+	"rune_enchant": "minecraft:bane_of_arthropods",	
+	"level": 4,
+	"items":
+	[
+		"minecraft:honey_bottle",
+		"minecraft:fermented_spider_eye",
+		"mana-and-artifice:vinteum_dust",
+		"minecraft:lapis_block",
+		"mana-and-artifice:enchantment_focus_fire"
+	]
+}

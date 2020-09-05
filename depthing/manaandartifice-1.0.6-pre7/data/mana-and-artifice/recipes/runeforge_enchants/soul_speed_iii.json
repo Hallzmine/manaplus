@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_ender",
+	"rune_enchant": "minecraft:soul_speed",	
+	"level": 3,
+	"items":
+	[		
+		"minecraft:sugar",
+		"minecraft:gold_nugget",
+		"minecraft:porkchop",
+		"minecraft:soul_soil",
+		"minecraft:soul_lantern",
+		"minecraft:soul_lantern",
+		"mana-and-artifice:stone_rune_brown",
+		"mana-and-artifice:stone_rune_brown"
+	]
+}

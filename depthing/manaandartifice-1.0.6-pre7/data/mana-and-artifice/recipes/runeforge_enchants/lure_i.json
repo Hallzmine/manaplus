@@ -1,0 +1,14 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_water",
+	"rune_enchant": "minecraft:lure",	
+	"level": 1,
+	"items":
+	[						
+		"minecraft:carrot",
+		"minecraft:tripwire_hook",
+		"minecraft:lead",
+		"minecraft:slime_ball"
+	]
+}

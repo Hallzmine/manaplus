@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mana-and-artifice:vinteum_block"
+    }
+  ],
+  "result": {
+    "item": "mana-and-artifice:vinteum_ingot",
+    "count": 9
+  }
+}

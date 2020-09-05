@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 5,
+	"output": "mana-and-artifice:rune_earth",
+	"enchant": "minecraft:blast_protection",
+	"magnitude": 4,
+	"items": [
+		"minecraft:creeper_head",
+		"mana-and-artifice:rune_earth",
+		"minecraft:totem_of_undying"
+	],
+	"patterns": [
+		"mana-and-artifice:infinity",
+		"mana-and-artifice:square"
+	]
+}

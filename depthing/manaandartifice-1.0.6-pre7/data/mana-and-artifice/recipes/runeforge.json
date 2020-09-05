@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"SSS",
+  	"RRR",
+  	"SSS"
+  ],
+  "key": {
+  	"S": {
+  		"item": "minecraft:stone"
+  	},
+  	"R": {
+  		"tag": "mana-and-artifice:stone_runes"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:runeforge"    
+  }
+}

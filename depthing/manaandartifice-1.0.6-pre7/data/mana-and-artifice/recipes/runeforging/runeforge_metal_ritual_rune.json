@@ -1,0 +1,6 @@
+{
+	"type": "mana-and-artifice:runeforging",
+	"tier": 2,
+	"pattern": "mana-and-artifice:rune_pattern_ritual_metal",
+	"output": "mana-and-artifice:rune_ritual_metal"
+}

@@ -1,0 +1,24 @@
+{
+	"type": "mana-and-artifice:modifier",
+	"output": "mana-and-artifice:radius",
+	"tier": 4,
+	"items":
+	[
+		"daylight_detector",
+		"mana-and-artifice:chimerite_gem",
+		"mana-and-artifice:chimerite_gem",
+		"mana-and-artifice:chimerite_gem",
+		"bubble_coral",
+		"pufferfish",
+		"mana-and-artifice:rune_water",
+		"mana-and-artifice:desert_nova"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/circle",
+		"mana-and-artifice:manaweave_patterns/knot",
+		"mana-and-artifice:manaweave_patterns/circle",
+		"mana-and-artifice:manaweave_patterns/knot3",
+		"mana-and-artifice:manaweave_patterns/circle"		
+	]
+}

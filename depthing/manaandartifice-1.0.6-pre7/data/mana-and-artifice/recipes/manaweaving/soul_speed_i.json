@@ -1,0 +1,23 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 3,
+	"output": "mana-and-artifice:rune_ender",
+	"enchant": "minecraft:soul_speed",
+	"magnitude": 1,
+	"items": [
+		"mana-and-artifice:rune_ender",		
+		"minecraft:soul_sand",
+		"minecraft:soul_sand",
+		"minecraft:soul_sand",
+		"minecraft:soul_sand",
+		"minecraft:soul_sand",
+		"minecraft:soul_sand",
+		"minecraft:soul_sand",
+		"minecraft:soul_sand"
+	],
+	"patterns": [
+		"mana-and-artifice:square",
+		"mana-and-artifice:circle",
+		"mana-and-artifice:square"
+	]
+}

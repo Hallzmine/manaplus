@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"   ",
+  	"EKE",
+  	"   "
+  ],
+  "key": {
+  	"K": {
+  		"item": "mana-and-artifice:ritual_kit"
+  	},
+  	"E": {
+  		"item": "minecraft:ender_eye"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:fast_ritual_kit"    
+  }
+}

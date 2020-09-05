@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_earth",
+	"rune_enchant": "minecraft:protection",	
+	"level": 3,
+	"items":
+	[								
+		"minecraft:golden_boots",
+		"minecraft:golden_leggings",
+		"minecraft:golden_chestplate",
+		"minecraft:golden_helmet",
+		"minecraft:shield",
+		"mana-and-artifice:rune_defense",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:enchantment_focus_earth"
+	]
+}

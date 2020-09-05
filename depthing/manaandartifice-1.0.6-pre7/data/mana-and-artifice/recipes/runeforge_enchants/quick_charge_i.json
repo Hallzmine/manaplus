@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_air",
+	"rune_enchant": "minecraft:quick_charge",	
+	"level": 1,
+	"items":
+	[
+		"minecraft:redstone",
+		"minecraft:redstone",
+		"minecraft:redstone",
+		"minecraft:redstone",
+		"mana-and-artifice:stone_rune_yellow",
+		"mana-and-artifice:stone_rune_white",
+		"mana-and-artifice:stone_rune_yellow",
+		"mana-and-artifice:stone_rune_white"
+	]
+}

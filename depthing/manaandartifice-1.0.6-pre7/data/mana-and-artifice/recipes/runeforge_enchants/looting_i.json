@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_ender",
+	"rune_enchant": "minecraft:looting",	
+	"level": 1,
+	"items":
+	[		
+		"minecraft:arrow",
+		"minecraft:bone",
+		"minecraft:rotten_flesh",
+		"minecraft:gunpowder",
+		"minecraft:ender_pearl",
+		"mana-and-artifice:stone_rune_purple"
+	]
+}

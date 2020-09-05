@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"BPC",
+  	"SSS",
+  	"W W"
+  ],
+  "key": {
+  	"B": {
+  		"item": "minecraft:bowl"
+  	},
+  	"C": {
+  		"item": "mana-and-artifice:wizard_chalk"
+  	},
+  	"S": {
+  		"item": "minecraft:stone"
+  	},
+  	"W": {
+  		"tag": "minecraft:planks"
+  	},
+  	"P": {
+  		"item": "mana-and-artifice:purified_vinteum_dust"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:runescribing_table"    
+  }
+}

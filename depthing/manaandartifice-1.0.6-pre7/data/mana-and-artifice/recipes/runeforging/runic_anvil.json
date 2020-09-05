@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"   ",
+  	"CAC",
+  	"PBP"
+  ],
+  "key": {
+  	"A": {
+  		"item": "minecraft:anvil"
+  	},
+  	"C": {
+  		"item": "mana-and-artifice:wizard_chalk"
+  	},
+  	"B": {
+  		"item": "minecraft:barrel"
+  	},
+  	"P": {
+  		"item": "mana-and-artifice:purified_vinteum_dust"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:runic_anvil"    
+  }
+}

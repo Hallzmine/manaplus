@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_water",
+	"rune_enchant": "minecraft:lure",	
+	"level": 3,
+	"items":
+	[						
+		"minecraft:golden_carrot",
+		"minecraft:tripwire_hook",
+		"minecraft:lead",
+		"minecraft:slime_ball",
+		"minecraft:dried_kelp",
+		"minecraft:barrel",
+		"mana-and-artifice:enchantment_focus_water"
+	]
+}

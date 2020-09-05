@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_aura",
+	"rune_enchant": "mana-and-artifice:aura-mining",
+	"level": 1,
+	"items":
+	[				
+		"minecraft:golden_pickaxe",
+		"minecraft:diamond_pickaxe",
+		"minecraft:diamond_shovel",		
+		"minecraft:golden_shovel",
+		"mana-and-artifice:runic_silk",
+		"mana-and-artifice:runic_silk",
+		"mana-and-artifice:enchantment_focus_earth",
+		"mana-and-artifice:enchantment_focus_earth"
+	]
+}

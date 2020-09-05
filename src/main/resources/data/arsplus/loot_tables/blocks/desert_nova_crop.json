@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mana-and-artifice:desert_nova",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "arsplus:desert_nova_crop",
+              "properties": {
+                "age": "7"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

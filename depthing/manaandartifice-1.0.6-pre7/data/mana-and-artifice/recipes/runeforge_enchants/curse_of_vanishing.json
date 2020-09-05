@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_ender",
+	"rune_enchant": "minecraft:vanishing_curse",	
+	"level": 1,
+	"items":
+	[
+		"mana-and-artifice:enchantment_focus_ender",
+		"mana-and-artifice:chimerite_gem",
+		"mana-and-artifice:chimerite_gem",
+		"minecraft:glass_pane",
+		"minecraft:glass_pane",
+		"minecraft:fire_charge"
+	]
+}

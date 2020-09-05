@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:modifier",
+	"output": "mana-and-artifice:duration",
+	"tier": 4,
+	"items":
+	[
+		"magma_cream",
+		"magma_cream",
+		"blaze_powder",
+		"blaze_powder",
+		"mana-and-artifice:rune_arcane"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/hourglass"	
+	]
+}

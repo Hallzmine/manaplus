@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"OWO",
+  	"SGS",
+  	"SIS"
+  ],
+  "key": {
+  	"O": {
+  		"item": "minecraft:obsidian"
+  	},
+  	"W": {
+  		"item": "mana-and-artifice:manaweaver_wand"
+  	},
+  	"S": {
+  		"item": "minecraft:stone"
+  	},
+  	"I": {
+  		"item": "mana-and-artifice:vinteum_ingot"
+  	},
+  	"G": {
+  		"item": "minecraft:glass"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:manaweave_projector"    
+  }
+}

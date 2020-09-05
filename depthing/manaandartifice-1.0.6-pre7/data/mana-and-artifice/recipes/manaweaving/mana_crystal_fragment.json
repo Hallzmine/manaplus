@@ -1,0 +1,27 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"output": {
+		"item": "mana-and-artifice:mana_crystal_fragment",
+		"data": {
+			"Damage": 249
+		}
+	},
+	"tier": 2,
+	"items": [		
+		"mana-and-artifice:purified_vinteum_dust",
+		"mana-and-artifice:chimerite_gem",
+		"mana-and-artifice:chimerite_gem",
+		"mana-and-artifice:chimerite_gem",
+		"mana-and-artifice:chimerite_gem",
+		"mana-and-artifice:chimerite_gem",
+		"mana-and-artifice:chimerite_gem",
+		"mana-and-artifice:chimerite_gem",
+		"mana-and-artifice:chimerite_gem"		
+	],
+	"patterns": [
+		"mana-and-artifice:circle",
+		"mana-and-artifice:diamond",
+		"mana-and-artifice:square",
+		"mana-and-artifice:diamond"
+	]
+}

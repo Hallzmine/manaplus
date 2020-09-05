@@ -1,0 +1,20 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 4,
+	"output": "mana-and-artifice:rune_arcane",
+	"enchant": "minecraft:silk_touch",
+	"magnitude": 1,
+	"items": [
+		"mana-and-artifice:rune_arcane",
+		"mana-and-artifice:runic_silk",
+		"mana-and-artifice:infused_silk"
+	],
+	"patterns": [
+		"mana-and-artifice:manaweave_patterns/diamond",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle",
+		"mana-and-artifice:manaweave_patterns/knot2",
+		"mana-and-artifice:manaweave_patterns/knot3",
+		"mana-and-artifice:manaweave_patterns/split_triangle",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle"
+	]
+}

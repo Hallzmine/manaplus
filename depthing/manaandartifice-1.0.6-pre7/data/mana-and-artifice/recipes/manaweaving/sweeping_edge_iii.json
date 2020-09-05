@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 5,
+	"output": "mana-and-artifice:rune_fire",
+	"enchant": "minecraft:sweeping",
+	"magnitude": 3,
+	"items": [
+		"mana-and-artifice:rune_fire",
+		"minecraft:fire_charge",
+		"minecraft:diamond_sword"
+	],
+	"patterns": [
+		"mana-and-artifice:manaweave_patterns/split_triangle",
+		"mana-and-artifice:manaweave_patterns/circle"
+	]
+}

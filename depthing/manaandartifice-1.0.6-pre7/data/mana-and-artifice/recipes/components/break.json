@@ -1,0 +1,20 @@
+{
+	"type": "mana-and-artifice:component",
+	"tier": 1,
+	"output": "mana-and-artifice:break",
+	"items":
+	[
+		"mana-and-artifice:stone_rune_brown",		
+		"mana-and-artifice:vinteum_dust",
+		"iron_pickaxe",
+		"iron_shovel",
+		"iron_axe",
+		"mana-and-artifice:stone_rune_gray"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/square",
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/square"		
+	]
+}

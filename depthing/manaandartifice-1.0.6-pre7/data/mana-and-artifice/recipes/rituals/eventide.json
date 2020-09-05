@@ -1,0 +1,47 @@
+{
+	"type": "mana-and-artifice:ritual",
+	"tier": 4,
+	"pattern":
+	[
+		[ 0, 0, 6, 7, 0 ],
+		[ 0, 5, 8, 0, 0 ],
+		[ 4, 0,-1, 0, 0 ],
+		[ 0, 3, 9, 0, 0 ],
+		[ 0, 0, 2, 1, 0 ]
+	],
+	"displayPattern":
+	[
+		[ 0, 0, 5, 6, 0 ],
+		[ 0, 4, 7, 0, 0 ],
+		[-1, 0,-1, 0, 0 ],
+		[ 0, 3, 8, 0, 0 ],
+		[ 0, 0, 2, 1, 0 ]
+	],	
+	"reagents":
+	[
+		"  W  ",
+		"     ",
+		"     ",
+		"     ",
+		"  W  "
+	],
+	"keys":
+	{
+		"W": 
+		{ 
+			"item": "wool",
+			"optional": false,
+			"consume": true
+		}
+	},
+	"manaweave":
+	[
+		"mana-and-artifice:manaweave_patterns/circle",
+		"mana-and-artifice:manaweave_patterns/split_triangle"
+	],
+	"parameters":
+	{
+		"innerColor": "0xFF00FF",
+		"outerColor": "0x0800FF"
+	}
+}

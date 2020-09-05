@@ -1,0 +1,20 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:silence",
+	"tier": 5,
+	"items":
+	[
+		"minecraft:wool",
+		"minecraft:wool",
+		"mana-and-artifice:aum",
+		"mana-and-artifice:aum",
+		"mana-and-artifice:arcane_ash",
+		"mana-and-artifice:arcane_ash"		
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/infinity",
+		"mana-and-artifice:manaweave_patterns/split_triangle",
+		"mana-and-artifice:manaweave_patterns/diamond"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 4,
+	"output": "mana-and-artifice:rune_earth",
+	"enchant": "minecraft:blast_protection",
+	"magnitude": 3,
+	"items": [
+		"minecraft:tnt",
+		"mana-and-artifice:rune_earth",
+		"mana-and-artifice:all_concrete"
+	],
+	"patterns": [
+		"mana-and-artifice:hourglass",
+		"mana-and-artifice:square"
+	]
+}

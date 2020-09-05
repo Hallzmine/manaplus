@@ -1,0 +1,22 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"output": "mana-and-artifice:hellfire_staff",
+	"tier": 5,
+	"requiredFaction": "DEMONS",
+	"items": [
+		"mana-and-artifice:staff_a",
+		"mana-and-artifice:enchantment_focus_fire",
+		"mana-and-artifice:enchantment_focus_fire",
+		"mana-and-artifice:rune_fire",
+		"mana-and-artifice:rune_fire",
+		"minecraft:nether_star",
+		"minecraft:dragon_breath",
+		"minecraft:soul_lantern",
+		"minecraft:soul_lantern"
+	],
+	"patterns": [
+		"mana-and-artifice:inverted_triangle",
+		"mana-and-artifice:inverted_split_triangle",
+		"mana-and-artifice:inverted_triangle"		
+	]
+}

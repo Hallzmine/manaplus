@@ -1,0 +1,22 @@
+{
+	"type": "mana-and-artifice:modifier",
+	"output": "mana-and-artifice:range",
+	"tier": 2,
+	"items":
+	[
+		"bow",
+		"crossbow",
+		"arrow",
+		"spectral_arrow",
+		"lead",
+		"string",
+		"tripwire_hook"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/knot3",
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/knot"		
+	]
+}

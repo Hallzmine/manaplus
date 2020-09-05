@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 5,
+	"output": "mana-and-artifice:rune_water",
+	"enchant": "minecraft:riptide",
+	"magnitude": 3,
+	"items": [
+		"mana-and-artifice:rune_water",
+		"minecraft:lead",		
+		"minecraft:ender_eye"
+	],
+	"patterns": [
+		"mana-and-artifice:manaweave_patterns/knot4",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle"
+	]
+}

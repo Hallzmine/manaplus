@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 4,
+	"output": "mana-and-artifice:rune_air",
+	"enchant": "minecraft:power",
+	"magnitude": 4,
+	"items": [
+		"mana-and-artifice:rune_air",
+		"minecraft:bow",
+		"minecraft:spectral_arrow"
+	],
+	"patterns": [
+		"mana-and-artifice:manaweave_patterns/split_triangle",
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/split_triangle"		
+	]
+}

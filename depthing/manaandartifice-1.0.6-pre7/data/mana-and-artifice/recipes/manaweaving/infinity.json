@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 5,
+	"output": "mana-and-artifice:rune_air",
+	"enchant": "minecraft:infinity",
+	"magnitude": 1,
+	"items": [
+		"mana-and-artifice:rune_air",
+		"minecraft:spectral_arrow",
+		"minecraft:chest"
+	],
+	"patterns": [
+		"mana-and-artifice:infinity",
+		"mana-and-artifice:triangle",
+		"mana-and-artifice:knot2",
+		"mana-and-artifice:knot4"
+	]
+}

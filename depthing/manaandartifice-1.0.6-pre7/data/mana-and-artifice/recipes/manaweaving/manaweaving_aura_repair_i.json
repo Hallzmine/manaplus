@@ -1,0 +1,22 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 5,
+	"output": "mana-and-artifice:rune_aura",
+	"enchant": "mana-and-artifice:aura-repair",
+	"magnitude": 1,
+	"items":
+	[
+		"mana-and-artifice:rune_aura",
+		"minecraft:nether_star",
+		"mana-and-artifice:purified_vinteum_dust"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:hourglass",
+		"mana-and-artifice:infinity",
+		"mana-and-artifice:circle",
+		"mana-and-artifice:square",
+		"mana-and-artifice:hourglass",
+		"mana-and-artifice:diamond"
+	]
+}

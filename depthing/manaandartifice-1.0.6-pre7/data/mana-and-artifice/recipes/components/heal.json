@@ -1,0 +1,24 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:heal",
+	"tier": 5,
+	"items":
+	[
+		"diamond_block",
+		"mana-and-artifice:stone_rune_green",
+		"mana-and-artifice:stone_rune_lime",
+		"mana-and-artifice:cerublossom",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:vinteum_dust",		
+		"emerald_block",
+		"redstone_block"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/knot",
+		"mana-and-artifice:manaweave_patterns/knot2",
+		"mana-and-artifice:manaweave_patterns/knot3",
+		"mana-and-artifice:manaweave_patterns/knot4",
+		"mana-and-artifice:manaweave_patterns/infinity"
+	]
+}

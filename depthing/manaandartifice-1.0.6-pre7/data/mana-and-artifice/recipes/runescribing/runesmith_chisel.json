@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	" I ",
+  	" S ",
+  	" S "
+  ],
+  "key": {
+  	"I": {
+  		"item": "mana-and-artifice:vinteum_ingot"
+  	},
+  	"S": {
+  		"item": "stick"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:runesmith_chisel"    
+  }
+}

@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 4,
+	"output": "mana-and-artifice:rune_air",
+	"enchant": "minecraft:piercing",
+	"magnitude": 3,
+	"items": [
+		"mana-and-artifice:rune_air",
+		"minecraft:zombie_head",
+		"minecraft:crossbow"
+	],
+	"patterns": [
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/triangle"
+	]
+}

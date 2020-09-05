@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_air",
+	"rune_enchant": "minecraft:knockback",	
+	"level": 2,
+	"items":
+	[		
+		"minecraft:tnt",
+		"minecraft:tnt",
+		"mana-and-artifice:runesmith_hammer",		
+		"mana-and-artifice:enchantment_focus_air",
+		"minecraft:minecart",
+		"minecraft:minecart"
+	]
+}

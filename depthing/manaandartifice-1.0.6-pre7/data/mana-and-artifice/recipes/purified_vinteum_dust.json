@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mana-and-artifice:vinteum_dust"
+    },
+    {
+      "item": "mana-and-artifice:arcane_ash"
+    },
+    {
+      "item": "mana-and-artifice:cerublossom"
+    },
+    {
+      "item": "mana-and-artifice:aum"
+    }
+  ],
+  "result": {
+    "item": "mana-and-artifice:purified_vinteum_dust",
+    "quantity": 3
+  }
+}

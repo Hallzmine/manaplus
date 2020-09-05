@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:shape",
+	"tier": 1,
+	"output": "mana-and-artifice:touch",
+	"items":
+	[
+		"mana-and-artifice:infused_silk",
+		"mana-and-artifice:infused_silk",
+		"feather",
+		"clay",
+		"mana-and-artifice:vinteum_dust"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/square"		
+	]
+}

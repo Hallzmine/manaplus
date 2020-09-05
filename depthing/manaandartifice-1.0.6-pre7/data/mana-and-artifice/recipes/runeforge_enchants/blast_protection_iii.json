@@ -1,0 +1,15 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_earth",
+	"rune_enchant": "minecraft:blast_protection",	
+	"level": 3,
+	"items":
+	[
+		"minecraft:creeper_head",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:desert_nova",
+		"mana-and-artifice:infused_silk",
+		"minecraft:lapis_lazuli"
+	]
+}

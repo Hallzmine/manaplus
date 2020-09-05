@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 3,
+	"output": "mana-and-artifice:runic_silk",
+	"items":
+	[
+		"mana-and-artifice:infused_silk",
+		"mana-and-artifice:rune_ritual_metal",
+		"mana-and-artifice:rune_ritual_metal"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:knot",
+		"mana-and-artifice:split_triangle",
+		"mana-and-artifice:diamond"
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:night_vision",
+	"tier": 3,
+	"items":
+	[
+		"minecraft:spider_eye",
+		"minecraft:spider_eye",
+		"minecraft:ender_eye",
+		"minecraft:ender_eye",		
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:aum",
+		"mana-and-artifice:aum"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/circle",
+		"mana-and-artifice:manaweave_patterns/circle"
+	]
+}

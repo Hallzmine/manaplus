@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "mana-and-artifice:vinteum_coated_iron"
+  },
+  "result": "mana-and-artifice:vinteum_ingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}

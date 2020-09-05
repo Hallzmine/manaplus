@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 4,
+	"output": "mana-and-artifice:rune_air",
+	"enchant": "minecraft:knockback",
+	"magnitude": 2,
+	"items": [
+		"mana-and-artifice:rune_air",
+		"minecraft:magma_cream",
+		"minecraft:fire_charge"
+	],
+	"patterns": [
+		"mana-and-artifice:diamond",
+		"mana-and-artifice:circle",
+		"mana-and-artifice:square",
+		"mana-and-artifice:triangle"
+	]
+}

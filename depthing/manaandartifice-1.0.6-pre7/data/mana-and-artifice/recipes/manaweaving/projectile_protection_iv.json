@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 5,
+	"output": "mana-and-artifice:rune_earth",
+	"enchant": "minecraft:projectile_protection",
+	"magnitude": 4,
+	"items": [
+		"mana-and-artifice:rune_earth",
+		"minecraft:totem_of_undying",
+		"minecraft:tipped_arrow"
+	],
+	"patterns": [
+		"mana-and-artifice:manaweave_patterns/square",
+		"mana-and-artifice:manaweave_patterns/diamond"
+	]
+}

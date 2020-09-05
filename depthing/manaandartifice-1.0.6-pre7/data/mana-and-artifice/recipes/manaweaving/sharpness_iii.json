@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 4,
+	"output": "mana-and-artifice:rune_fire",
+	"enchant": "minecraft:sharpness",
+	"magnitude": 3,
+	"items": [
+		"mana-and-artifice:rune_fire",
+		"minecraft:iron_sword",
+		"minecraft:flint"
+	],
+	"patterns": [
+		"mana-and-artifice:manaweave_patterns/diamond",
+		"mana-and-artifice:manaweave_patterns/diamond"
+	]
+}

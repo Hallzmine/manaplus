@@ -1,0 +1,19 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:haste",
+	"tier": 4,
+	"items":
+	[
+		"minecraft:sugar",
+		"minecraft:sugar",
+		"mana-and-artifice:vinteum_dust",
+		"minecraft:redstone",
+		"minecraft:redstone",
+		"minecraft:rabbit_foot"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/hourglass",
+		"mana-and-artifice:manaweave_patterns/triangle"
+	]
+}

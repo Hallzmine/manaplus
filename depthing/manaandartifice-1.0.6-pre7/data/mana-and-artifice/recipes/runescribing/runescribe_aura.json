@@ -1,0 +1,7 @@
+{
+	"type": "mana-and-artifice:runescribing",
+	"tier": 5,
+	"mutex_h": 28750133123884134,
+	"mutex_v": 28750133123884134,
+	"output": "mana-and-artifice:rune_pattern_aura"
+}

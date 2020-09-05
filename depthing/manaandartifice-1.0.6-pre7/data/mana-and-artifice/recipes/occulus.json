@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	" G ",
+  	"IVI"
+  ],
+  "key": {
+  	"G": {
+  		"item": "minecraft:glass"
+  	},
+	"V": {
+		"item": "mana-and-artifice:vinteum_dust"
+	},
+  	"I": {
+  		"item": "minecraft:iron_ingot"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:occulus"
+  }
+}

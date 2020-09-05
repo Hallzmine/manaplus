@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		"mana-and-artifice:stone_rune_black",
+		"mana-and-artifice:stone_rune_blue",
+		"mana-and-artifice:stone_rune_brown",
+		"mana-and-artifice:stone_rune_cyan",
+		"mana-and-artifice:stone_rune_gray",
+		"mana-and-artifice:stone_rune_green",
+		"mana-and-artifice:stone_rune_light_blue",
+		"mana-and-artifice:stone_rune_light_gray",
+		"mana-and-artifice:stone_rune_lime",
+		"mana-and-artifice:stone_rune_magenta",
+		"mana-and-artifice:stone_rune_orange",
+		"mana-and-artifice:stone_rune_pink",
+		"mana-and-artifice:stone_rune_purple",
+		"mana-and-artifice:stone_rune_red",
+		"mana-and-artifice:stone_rune_white",
+		"mana-and-artifice:stone_rune_yellow"
+	]
+}

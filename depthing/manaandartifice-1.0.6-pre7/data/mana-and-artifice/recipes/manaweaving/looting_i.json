@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 3,
+	"output": "mana-and-artifice:rune_ender",
+	"enchant": "minecraft:looting",
+	"magnitude": 1,
+	"items": [
+		"mana-and-artifice:rune_ender",
+		"minecraft:ender_pearl"
+	],
+	"patterns": [
+		"mana-and-artifice:diamond",
+		"mana-and-artifice:knot2",
+		"mana-and-artifice:knot",
+		"mana-and-artifice:diamond"
+	]
+}

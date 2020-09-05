@@ -1,0 +1,23 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:shield",
+	"tier": 2,
+	"items":
+	[
+		"mana-and-artifice:stone_rune_cyan",
+		"shield",
+		"mana-and-artifice:stone_rune_blue",
+		"mana-and-artifice:vinteum_dust",
+		"diamond_chestplate",
+		"observer",
+		"mana-and-artifice:rune_defense"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/square",
+		"mana-and-artifice:manaweave_patterns/knot2",
+		"mana-and-artifice:manaweave_patterns/diamond",
+		"mana-and-artifice:manaweave_patterns/knot4",
+		"mana-and-artifice:manaweave_patterns/circle"	
+	]
+}

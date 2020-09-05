@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_dye"
+    },
+    {
+      "item": "mana-and-artifice:stone_rune_blank"
+    }
+  ],
+  "result": {
+    "item": "mana-and-artifice:stone_rune_lime"
+  }
+}

@@ -1,0 +1,56 @@
+{
+	"type": "mana-and-artifice:ritual",
+	"tier": 4,
+	"pattern":
+	[
+		[ 1, 2, 3, 4, 5 ],
+		[ 0,-1, 0,-1, 0 ],
+		[-1, 0, 6, 0,-1 ],
+		[ 0,-1, 0,-1, 0 ],
+		[-1, 0,-1, 0,-1 ]		
+	],
+	"displayPattern":
+	[
+		[ 1, 2, 3, 4, 5 ],
+		[ 0,-1, 0,-1, 0 ],
+		[-1, 0,-1, 0,-1 ],
+		[ 0,-1, 0,-1, 0 ],
+		[-1, 0,-1, 0,-1 ]		
+	],
+	"reagents":
+	[
+		"WWWWW",
+		"     ",
+		"  F  ",
+		"     ",
+		"     "
+	],
+	"keys":
+	{
+		"F": 
+		{ 
+			"item": "mana-and-artifice:enchantment_focus_water",
+			"optional": false,
+			"consume": false
+		},
+		"W":
+		{
+			"item": "minecraft:gray_wool",
+			"optional": true,
+			"consume": false
+		}
+	},
+	"manaweave":
+	[
+		"mana-and-artifice:manaweave_patterns/inverted_triangle",
+		"mana-and-artifice:manaweave_patterns/hourglass",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle"
+	],
+	"parameters":
+	{
+		"innerColor": "0xffffff",
+		"outerColor": "0x2fb4e0",
+		"displayIndexes": false,
+		"connectBeam": true
+	}
+}

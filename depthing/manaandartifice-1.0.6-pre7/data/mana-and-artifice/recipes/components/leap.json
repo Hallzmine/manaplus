@@ -1,0 +1,22 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:leap",
+	"tier": 2,
+	"items":
+	[
+		"rabbit_foot",
+		"rabbit_hide",
+		"mana-and-artifice:stone_rune_white",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:cerublossom",
+		"ladder",
+		"ladder"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/square",
+		"mana-and-artifice:manaweave_patterns/circle",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle",
+		"mana-and-artifice:manaweave_patterns/triangle"
+	]
+}

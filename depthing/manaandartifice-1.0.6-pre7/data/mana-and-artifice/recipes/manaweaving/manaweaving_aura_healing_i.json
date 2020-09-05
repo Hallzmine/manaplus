@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 5,
+	"output": "mana-and-artifice:rune_aura",
+	"enchant": "mana-and-artifice:aura-healing",
+	"magnitude": 1,
+	"items":
+	[
+		"mana-and-artifice:rune_aura",
+		"minecraft:nether_star"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:circle",
+		"mana-and-artifice:circle",
+		"mana-and-artifice:circle"
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_ender",
+	"rune_enchant": "minecraft:soul_speed",	
+	"level": 2,
+	"items":
+	[		
+		"minecraft:sugar",
+		"minecraft:bone",
+		"minecraft:rotten_flesh",
+		"minecraft:soul_soil",
+		"minecraft:soul_campfire",
+		"minecraft:soul_campfire",
+		"mana-and-artifice:stone_rune_brown",
+		"mana-and-artifice:stone_rune_brown"
+	]
+}

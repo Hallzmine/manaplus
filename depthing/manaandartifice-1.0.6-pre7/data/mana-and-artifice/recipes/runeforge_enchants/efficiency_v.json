@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_arcane",
+	"rune_enchant": "minecraft:efficiency",	
+	"level": 5,
+	"items":
+	[
+		"minecraft:lapis_block",
+		"mana-and-artifice:vinteum_block",
+		"minecraft:emerald_block",
+		"minecraft:emerald_block",
+		"minecraft:quartz_block",
+		"minecraft:quartz_block",
+		"minecraft:iron_pickaxe",
+		"mana-and-artifice:enchantment_focus_arcane"
+	]
+}

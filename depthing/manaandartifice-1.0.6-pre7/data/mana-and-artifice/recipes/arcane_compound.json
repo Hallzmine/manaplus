@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	" A ",
+  	"DTC",
+  	" W "
+  ],
+  "key": {
+  	"T": {
+  		"item": "mana-and-artifice:tarma_root"
+  	},
+  	"A": {
+  		"item": "mana-and-artifice:aum"
+  	},
+  	"D": {
+  		"item": "mana-and-artifice:desert_nova"
+  	},
+  	"C": {
+  		"item": "mana-and-artifice:cerublossom"
+  	},
+  	"W": {
+  		"item": "mana-and-artifice:wakebloom"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:arcane_compound",
+    "count": 4    
+  }
+}

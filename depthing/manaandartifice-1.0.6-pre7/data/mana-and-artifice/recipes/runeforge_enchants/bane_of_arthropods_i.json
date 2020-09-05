@@ -1,0 +1,13 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_fire",
+	"rune_enchant": "minecraft:bane_of_arthropods",	
+	"level": 1,
+	"items":
+	[
+		"minecraft:fermented_spider_eye",
+		"mana-and-artifice:vinteum_dust",
+		"minecraft:lapis_lazuli"
+	]
+}

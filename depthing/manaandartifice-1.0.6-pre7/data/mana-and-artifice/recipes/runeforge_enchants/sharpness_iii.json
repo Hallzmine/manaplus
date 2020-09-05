@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_fire",
+	"rune_enchant": "minecraft:sharpness",	
+	"level": 3,
+	"items":
+	[
+		"minecraft:flint_and_steel",
+		"minecraft:gold_ingot",
+		"mana-and-artifice:stone_rune_black",
+		"mana-and-artifice:stone_rune_white",
+		"mana-and-artifice:stone_rune_light_blue",
+		"minecraft:iron_sword",
+		"minecraft:blaze_powder",
+		"minecraft:blaze_powder"
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_water",
+	"rune_enchant": "minecraft:riptide",	
+	"level": 1,
+	"items":
+	[
+		"minecraft:lead",
+		"mana-and-artifice:stone_rune_blue",
+		"mana-and-artifice:stone_rune_light_blue",
+		"mana-and-artifice:stone_rune_blue",
+		"mana-and-artifice:stone_rune_light_blue",
+		"mana-and-artifice:wakebloom",
+		"mana-and-artifice:wakebloom"
+	]
+}

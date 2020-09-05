@@ -1,0 +1,41 @@
+{
+	"type": "mana-and-artifice:ritual",
+	"tier": 5,
+	"pattern":
+	[
+		[ 7, 8, 9,10,11 ],
+		[ 6, 0, 0, 0,12 ],
+		[ 5, 0,15,14,13 ],
+		[ 4, 0, 0, 0, 0 ],
+		[ 3, 2, 1, 0, 0 ]
+	],
+	"reagents":
+	[
+		"  E  ",
+		"     ",
+		"  C  ",
+		"     ",
+		"  E  "
+	],
+	"keys":
+	{
+		"C": 
+		{ 
+			"item": "mana-and-artifice:player_charm",
+			"optional": false,
+			"consume": false
+		},
+		"E": 
+		{ 
+			"item": "minecraft:ender_pearl",
+			"optional": false,
+			"consume": false
+		}	
+	},
+	"parameters":
+	{
+		"innerColor": "0xFFFFFF",
+		"outerColor": "0xFFFFFF",
+		"connectBeam": false
+	}
+}

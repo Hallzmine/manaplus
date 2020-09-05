@@ -1,0 +1,25 @@
+{
+	"type": "mana-and-artifice:component",
+	"tier": 2,
+	"output": "mana-and-artifice:entangle",
+	"items":
+	[
+		"minecraft:fermented_spider_eye",
+		"minecraft:fermented_spider_eye",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:vinteum_dust",
+		"minecraft:lead",
+		"minecraft:lead",
+		"mana-and-artifice:tarma_root",
+		"mana-and-artifice:tarma_root"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/knot",
+		"mana-and-artifice:manaweave_patterns/knot2",
+		"mana-and-artifice:manaweave_patterns/knot3",
+		"mana-and-artifice:manaweave_patterns/knot4",
+		"mana-and-artifice:manaweave_patterns/knot2",
+		"mana-and-artifice:manaweave_patterns/knot"
+	]
+}

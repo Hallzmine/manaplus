@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"output": "mana-and-artifice:bubble_boat",
+	"tier": 2,
+	"items": [
+		"minecraft:bubble_coral",
+		"minecraft:boats",
+		"mana-and-artifice:rune_water"
+	],
+	"patterns": [
+		"mana-and-artifice:circle",
+		"mana-and-artifice:circle",
+		"mana-and-artifice:circle",
+		"mana-and-artifice:circle",
+		"mana-and-artifice:circle",
+		"mana-and-artifice:circle"
+	]
+}

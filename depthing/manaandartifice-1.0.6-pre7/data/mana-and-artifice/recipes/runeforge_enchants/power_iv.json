@@ -1,0 +1,15 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_air",
+	"rune_enchant": "minecraft:power",	
+	"level": 4,
+	"items":
+	[								
+		"minecraft:fire_charge",
+		"minecraft:crossbow",
+		"minecraft:fire_charge",
+		"minecraft:redstone_torch",
+		"mana-and-artifice:enchantment_focus_fire"
+	]
+}

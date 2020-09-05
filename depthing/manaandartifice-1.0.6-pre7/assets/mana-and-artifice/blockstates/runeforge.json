@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "facing=north,active=true": { "model": "mana-and-artifice:block/runeforge_active", "y": 270 },        
+    "facing=south,active=true": { "model": "mana-and-artifice:block/runeforge_active", "y": 90  },    
+    "facing=east,active=true": { "model": "mana-and-artifice:block/runeforge_active"  },      
+    "facing=west,active=true": { "model": "mana-and-artifice:block/runeforge_active", "y": 180  },
+    
+    "facing=north,active=false": { "model": "mana-and-artifice:block/runeforge", "y": 270  },    
+    "facing=south,active=false": { "model": "mana-and-artifice:block/runeforge", "y": 90  },    
+    "facing=east,active=false": { "model": "mana-and-artifice:block/runeforge"  },      
+    "facing=west,active=false": { "model": "mana-and-artifice:block/runeforge", "y": 180 }
+  }
+}

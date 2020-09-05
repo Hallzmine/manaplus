@@ -1,0 +1,22 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:invisibility",
+	"tier": 4,
+	"items":
+	[
+		"minecraft:golden_carrot",
+		"minecraft:fermented_spider_eye",
+		"minecraft:glass",
+		"minecraft:glass",
+		"minecraft:potion",
+		"mana-and-artifice:cerublossom",
+		"mana-and-artifice:vinteum_dust"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/knot2",
+		"mana-and-artifice:manaweave_patterns/diamond",
+		"mana-and-artifice:manaweave_patterns/square",
+		"mana-and-artifice:manaweave_patterns/knot4"		
+	]
+}

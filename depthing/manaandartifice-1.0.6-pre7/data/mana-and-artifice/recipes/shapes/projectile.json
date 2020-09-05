@@ -1,0 +1,19 @@
+{
+	"type": "mana-and-artifice:shape",
+	"output": "mana-and-artifice:projectile",
+	"tier": 2,
+	"items":
+	[
+		"snowball",
+		"arrow",
+		"mana-and-artifice:vinteum_dust",
+		"crossbow",
+		"bow",
+		"dispenser"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/diamond"		
+	]
+}

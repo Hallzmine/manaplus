@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 5,
+	"output": "mana-and-artifice:rune_earth",
+	"enchant": "minecraft:unbreaking",
+	"magnitude": 3,
+	"items": [
+		"mana-and-artifice:rune_earth",
+		"minecraft:nether_star",
+		"minecraft:end_stone"
+	],
+	"patterns": [
+		"mana-and-artifice:manaweave_patterns/diamond",
+		"mana-and-artifice:manaweave_patterns/hourglass",
+		"mana-and-artifice:manaweave_patterns/infinity"
+	]
+}

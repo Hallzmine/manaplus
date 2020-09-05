@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_water",
+	"rune_enchant": "minecraft:depth_strider",	
+	"level": 3,
+	"items":
+	[
+		"minecraft:leather_boots",
+		"minecraft:lapis_lazuli",
+		"mana-and-artifice:vinteum_dust",
+		"minecraft:bucket",
+		"mana-and-artifice:enchantment_focus_water",
+		"minecraft:bubble_coral"
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:rift",
+	"tier": 3,
+	"items":
+	[
+		"minecraft:ender_pearl",
+		"minecraft:ender_pearl",
+		"minecraft:chest",
+		"minecraft:chest",
+		"mana-and-artifice:arcane_ash",
+		"mana-and-artifice:arcane_ash"		
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/square",		
+		"mana-and-artifice:manaweave_patterns/diamond",
+		"mana-and-artifice:manaweave_patterns/square"		
+	]
+}

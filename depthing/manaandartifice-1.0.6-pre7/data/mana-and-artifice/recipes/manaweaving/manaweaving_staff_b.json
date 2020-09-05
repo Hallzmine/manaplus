@@ -1,0 +1,15 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 1,
+	"output": "mana-and-artifice:staff_b",
+	"copy_nbt": true,
+	"items":
+	[
+		"mana-and-artifice:staff_b",
+		"mana-and-artifice:spell"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:circle"		
+	]
+}

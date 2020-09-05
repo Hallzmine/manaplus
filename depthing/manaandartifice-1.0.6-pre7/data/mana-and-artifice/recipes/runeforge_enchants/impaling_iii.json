@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_water",
+	"rune_enchant": "minecraft:impaling",	
+	"level": 3,
+	"items":
+	[		
+		"minecraft:spectral_arrow",
+		"minecraft:spectral_arrow",		
+		"mana-and-artifice:stone_rune_cyan",
+		"mana-and-artifice:stone_rune_blue",
+		"mana-and-artifice:wakebloom",
+		"mana-and-artifice:wakebloom",
+		"minecraft:prismarine_shard",
+		"minecraft:prismarine_shard"
+	]
+}

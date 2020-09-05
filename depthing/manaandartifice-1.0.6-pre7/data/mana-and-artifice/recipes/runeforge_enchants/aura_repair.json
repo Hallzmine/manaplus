@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_aura",
+	"rune_enchant": "mana-and-artifice:aura-repair",
+	"level": 1,
+	"items":
+	[				
+		"minecraft:anvil",
+		"mana-and-artifice:runesmith_hammer",
+		"mana-and-artifice:runesmith_chisel",
+		"minecraft:totem_of_undying",
+		"minecraft:lava_bucket",
+		"minecraft:blaze_rod",
+		"minecraft:blaze_rod",
+		"mana-and-artifice:enchantment_focus_fire"
+	]
+}

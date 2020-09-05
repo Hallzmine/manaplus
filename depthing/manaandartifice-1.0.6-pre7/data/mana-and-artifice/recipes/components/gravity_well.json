@@ -1,0 +1,19 @@
+{
+	"type": "mana-and-artifice:component",
+	"tier": 2,
+	"output": "mana-and-artifice:gravity_well",
+	"items":
+	[
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:enchantment_focus_arcane"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/inverted_triangle",
+		"mana-and-artifice:manaweave_patterns/knot2",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle",
+		"mana-and-artifice:manaweave_patterns/knot3",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle"
+	]
+}

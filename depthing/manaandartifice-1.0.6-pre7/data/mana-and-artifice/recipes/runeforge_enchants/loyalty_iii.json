@@ -1,0 +1,14 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_ender",
+	"rune_enchant": "minecraft:loyalty",	
+	"level": 3,
+	"items":
+	[						
+		"minecraft:eye_of_ender",		
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:stone_rune_purple",
+		"mana-and-artifice:enchantment_focus_ender"	
+	]
+}

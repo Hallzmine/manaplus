@@ -1,0 +1,38 @@
+{
+	"type": "mana-and-artifice:ritual",
+	"tier": 3,
+	"pattern":
+	[
+		[ 0, 0, 0, 0, 0 ],
+		[ 0, 2, 3, 4, 0 ],
+		[ 1, 0,-1, 0, 5 ],
+		[ 0, 8, 7, 6, 0 ],
+		[ 0, 0, 0, 0, 0 ]
+	],
+	"reagents":
+	[
+		"     ",
+		" RRR ",
+		"M   R",
+		" RRR ",
+		"     "	
+	],
+	"keys":
+	{
+		"M": 
+		{ 
+			"item": "mana-and-artifice:stone_runes",
+			"optional": false,
+			"consume": true
+		},
+		"R": 
+		{ 
+			"item": "mana-and-artifice:stone_runes",
+			"optional": true,
+			"consume": true
+		}		
+	},
+	"parameters":
+	{
+	}
+}

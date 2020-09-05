@@ -1,0 +1,6 @@
+{
+	"type": "mana-and-artifice:runeforging",
+	"tier": 5,
+	"pattern": "mana-and-artifice:rune_pattern_warding",
+	"output": "mana-and-artifice:rune_warding"
+}

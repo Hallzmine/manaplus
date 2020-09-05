@@ -1,0 +1,6 @@
+{
+	"type": "mana-and-artifice:runeforging",
+	"tier": 3,
+	"pattern": "mana-and-artifice:rune_pattern_water",
+	"output": "mana-and-artifice:rune_water"
+}

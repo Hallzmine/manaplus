@@ -1,0 +1,23 @@
+{
+	"type": "mana-and-artifice:modifier",
+	"output": "mana-and-artifice:damage",
+	"tier": 2,
+	"items":
+	[
+		"wooden_sword",
+		"stone_sword",
+		"iron_sword",
+		"golden_sword",
+		"mana-and-artifice:stone_rune_red",
+		"mana-and-artifice:stone_rune_red",
+		"diamond_sword"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/circle",
+		"mana-and-artifice:manaweave_patterns/square",
+		"mana-and-artifice:manaweave_patterns/knot",
+		"mana-and-artifice:manaweave_patterns/diamond",
+		"mana-and-artifice:manaweave_patterns/triangle"
+	]
+}

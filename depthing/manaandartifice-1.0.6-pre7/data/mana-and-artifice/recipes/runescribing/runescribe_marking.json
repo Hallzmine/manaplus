@@ -1,0 +1,7 @@
+{
+	"type": "mana-and-artifice:runescribing",
+	"tier": 2,
+	"mutex_h": 1006633020,
+	"mutex_v": 15395041840640,
+	"output": "mana-and-artifice:rune_pattern_marking"
+}

@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 5,
+	"output": "mana-and-artifice:rune_water",
+	"enchant": "minecraft:depth_strider",
+	"magnitude": 3,
+	"items": [
+		"mana-and-artifice:rune_water",
+		"minecraft:diamond_boots",
+		"minecraft:nautilus_shell"
+	],
+	"patterns": [
+		"mana-and-artifice:knot",
+		"mana-and-artifice:knot2",
+		"mana-and-artifice:knot3",
+		"mana-and-artifice:knot4"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 4,
+	"output": "mana-and-artifice:rune_arcane",
+	"enchant": "minecraft:efficiency",
+	"magnitude": 4,
+	"items": [
+		"mana-and-artifice:rune_arcane",
+		"mana-and-artifice:purified_vinteum_dust",
+		"minecraft:golden_pickaxe"
+	],
+	"patterns": [
+		"mana-and-artifice:square",
+		"mana-and-artifice:square"
+	]
+}

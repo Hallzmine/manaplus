@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",	
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_fire",
+	"rune_enchant": "minecraft:smite",	
+	"level": 5,
+	"items":
+	[				
+		"mana-and-artifice:stone_rune_light_blue",
+		"mana-and-artifice:stone_rune_white",
+		"minecraft:wither_skeleton_skull",
+		"minecraft:wither_skeleton_skull",
+		"mana-and-artifice:superheated_vinteum_ingot",
+		"minecraft:blaze_powder",
+		"minecraft:blaze_powder",
+		"mana-and-artifice:enchantment_focus_fire"
+	]
+}

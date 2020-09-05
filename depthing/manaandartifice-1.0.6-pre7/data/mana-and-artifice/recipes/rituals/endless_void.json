@@ -1,0 +1,69 @@
+{
+	"type": "mana-and-artifice:ritual",
+	"tier": 2,
+	"pattern":
+	[
+		[ 0, 0, 1, 1, 1, 0, 0 ],
+		[ 0, 0, 0, 1, 0, 0, 0 ],
+		[ 0, 1, 0, 1, 0, 1, 0 ],
+		[ 0, 1, 1, 1, 1, 1, 0 ],
+		[ 0, 1, 0, 1, 0, 1, 0 ],
+		[ 0, 0, 0, 1, 0, 0, 0 ],
+		[ 0, 0, 1, 1, 1, 0, 0 ]
+	],
+	"displayPattern":
+	[
+		[ 0, 0, 2,-1, 4, 0, 0 ],
+		[ 0, 0, 0,-1, 0, 0, 0 ],
+		[ 0, 1, 0, 3, 0, 5, 0 ],
+		[ 0,-1,-1,-1,-1,-1, 0 ],
+		[ 0,10, 0, 8, 0, 6, 0 ],
+		[ 0, 0, 0,-1, 0, 0, 0 ],
+		[ 0, 0, 9,-1, 7, 0, 0 ]
+	],
+	"reagents":
+	[
+		"  P P  ",
+		"   G   ",
+		" P E P ",
+		" GEGEG ",
+		" P E P ",
+		"   G   ",
+		"  P P  "
+	],
+	"keys":
+	{
+		"P": 
+		{ 
+			"item": "carved_pumpkin",
+			"optional": false,
+			"consume": true
+		},
+		"G": 
+		{ 
+			"item": "black_stained_glass",
+			"optional": false,
+			"consume": true
+		},
+		"E": 
+		{ 
+			"item": "ender_pearl",
+			"optional": false,
+			"consume": true
+		}
+	},
+	"manaweave":
+	[
+		"mana-and-artifice:manaweave_patterns/circle",		
+		"mana-and-artifice:manaweave_patterns/inverted_triangle",
+		"mana-and-artifice:manaweave_patterns/circle",
+		"mana-and-artifice:manaweave_patterns/diamond",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle"
+	],
+	"parameters":
+	{
+		"innerColor": "0x305E11",
+		"outerColor": "0x49115E",
+		"displayIndexes": false
+	}
+}

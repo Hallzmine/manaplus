@@ -1,0 +1,12 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_air",
+	"rune_enchant": "minecraft:power",	
+	"level": 1,
+	"items":
+	[								
+		"minecraft:gunpowder",
+		"minecraft:bow"
+	]
+}

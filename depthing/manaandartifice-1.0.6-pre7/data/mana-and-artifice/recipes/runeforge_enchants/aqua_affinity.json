@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_water",
+	"rune_enchant": "minecraft:aqua_affinity",	
+	"level": 1,
+	"items":
+	[
+		"minecraft:turtle_helmet",
+		"minecraft:nautilus_shell",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:wakebloom",
+		"mana-and-artifice:enchantment_focus_water",
+		"minecraft:lapis_lazuli"
+	]
+}

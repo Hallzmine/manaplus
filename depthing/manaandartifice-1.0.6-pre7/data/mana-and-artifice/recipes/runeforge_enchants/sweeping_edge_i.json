@@ -1,0 +1,14 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_fire",
+	"rune_enchant": "minecraft:sweeping",	
+	"level": 1,
+	"items":
+	[				
+		"mana-and-artifice:stone_rune_white",
+		"mana-and-artifice:stone_rune_light_gray",
+		"mana-and-artifice:stone_rune_gray",
+		"minecraft:iron_sword"
+	]
+}

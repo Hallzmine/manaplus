@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 4,
+	"output": "mana-and-artifice:rune_air",
+	"enchant": "minecraft:feather_falling",
+	"magnitude": 3,
+	"items": [
+		"mana-and-artifice:rune_air",
+		"minecraft:feather",
+		"minecraft:golden_boots"
+	],
+	"patterns": [
+		"mana-and-artifice:inverted_triangle",
+		"mana-and-artifice:triangle",
+		"mana-and-artifice:circle"
+	]
+}

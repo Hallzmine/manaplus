@@ -1,0 +1,14 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 4,
+	"output": "mana-and-artifice:sight_unguent",		
+	"items": [
+		"minecraft:honey_bottle",
+		"minecraft:slime_ball",
+		"mana-and-artifice:purified_vinteum_dust"
+	],
+	"patterns": [
+		"mana-and-artifice:circle",
+		"mana-and-artifice:triangle"
+	]
+}

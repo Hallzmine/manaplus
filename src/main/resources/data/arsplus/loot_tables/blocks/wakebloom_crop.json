@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mana-and-artifice:wakebloom",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "arsplus:wakebloom_crop",
+              "properties": {
+                "age": "7"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

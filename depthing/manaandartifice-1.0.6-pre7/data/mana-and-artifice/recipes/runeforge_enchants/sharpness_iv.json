@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_fire",
+	"rune_enchant": "minecraft:sharpness",	
+	"level": 4,
+	"items":
+	[
+		"minecraft:flint_and_steel",
+		"minecraft:diamond",
+		"mana-and-artifice:stone_rune_black",
+		"mana-and-artifice:stone_rune_white",
+		"mana-and-artifice:stone_rune_light_blue",
+		"minecraft:golden_sword",
+		"minecraft:magma_cream",
+		"minecraft:magma_cream"
+	]
+}

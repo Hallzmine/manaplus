@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 4,
+	"output": "mana-and-artifice:rune_water",
+	"enchant": "minecraft:respiration",
+	"magnitude": 2,
+	"items": [
+		"mana-and-artifice:rune_water",
+		"minecraft:leather_helmet",
+		"minecraft:clock"
+	],
+	"patterns": [
+		"mana-and-artifice:manaweave_patterns/circle",
+		"mana-and-artifice:manaweave_patterns/circle"
+	]
+}

@@ -1,0 +1,7 @@
+{
+	"type": "mana-and-artifice:arcane-furnace",
+	"tier": 1,
+	"input": "mana-and-artifice:vinteum_ingot",
+	"output": "mana-and-artifice:superheated_vinteum_ingot",
+	"burnTime": 200
+}

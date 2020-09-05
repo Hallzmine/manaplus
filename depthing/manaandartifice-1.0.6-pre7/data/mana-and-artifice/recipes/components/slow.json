@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:slow",
+	"tier": 1,
+	"items":
+	[
+		"minecraft:slime_ball",
+		"minecraft:slime_ball",
+		"mana-and-artifice:vinteum_dust",
+		"minecraft:cobweb",
+		"minecraft:cobweb"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/circle",
+		"mana-and-artifice:manaweave_patterns/square"
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_water",
+	"rune_enchant": "minecraft:luck_of_the_sea",	
+	"level": 3,
+	"items":
+	[						
+		"minecraft:tropical_fish",
+		"minecraft:heart_of_the_sea",		
+		"minecraft:boat",
+		"minecraft:nautilus_shell",
+		"minecraft:pufferfish",
+		"minecraft:prismarine_crystals",
+		"minecraft:prismarine_crystals",
+		"mana-and-artifice:enchantment_focus_water"
+	]
+}

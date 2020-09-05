@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 3,
+	"output": "mana-and-artifice:rune_water",
+	"enchant": "minecraft:luck_of_the_sea",
+	"magnitude": 1,
+	"items": [
+		"mana-and-artifice:rune_water",
+		"minecraft:compass",
+		"minecraft:name_tag"
+	],
+	"patterns": [
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/circle"
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_air",
+	"rune_enchant": "minecraft:multishot",	
+	"level": 1,
+	"items":
+	[								
+		"mana-and-artifice:enchantment_focus_air",
+		"mana-and-artifice:enchantment_focus_air",
+		"minecraft:spectral_arrow",
+		"minecraft:spectral_arrow",
+		"minecraft:crossbow",
+		"minecraft:crossbow",
+		"minecraft:tipped_arrow",
+		"minecraft:tipped_arrow"
+	]
+}

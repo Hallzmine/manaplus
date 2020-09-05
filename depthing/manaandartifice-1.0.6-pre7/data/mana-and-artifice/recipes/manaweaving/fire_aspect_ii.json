@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 5,
+	"output": "mana-and-artifice:rune_fire",
+	"enchant": "minecraft:fire_aspect",
+	"magnitude": 2,
+	"items": [
+		"mana-and-artifice:rune_fire",
+		"minecraft:blaze_powder",
+		"mana-and-artifice:stone_rune_orange"
+	],
+	"patterns": [
+		"mana-and-artifice:split_triangle",
+		"mana-and-artifice:diamond",
+		"mana-and-artifice:hourglass"
+	]
+}

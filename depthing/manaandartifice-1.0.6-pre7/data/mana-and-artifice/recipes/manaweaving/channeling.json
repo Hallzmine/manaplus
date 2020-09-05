@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 3,
+	"output": "mana-and-artifice:rune_water",
+	"enchant": "minecraft:channeling",
+	"magnitude": 1,
+	"items": [
+		"mana-and-artifice:rune_water",
+		"minecraft:conduit",
+		"mana-and-artifice:chimerite_gem"
+	],
+	"patterns": [
+		"mana-and-artifice:split_triangle",
+		"mana-and-artifice:diamond"
+	]
+}

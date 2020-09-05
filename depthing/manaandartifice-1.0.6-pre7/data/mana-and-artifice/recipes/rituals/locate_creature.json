@@ -1,0 +1,47 @@
+{
+	"type": "mana-and-artifice:ritual",
+	"tier": 5,
+	"pattern":
+	[
+		[ 0, 0,-1, 0, 0],
+		[ 0, 0, 0, 0, 0],
+		[-1, 0, 1, 0,-1],
+		[ 0, 0, 0, 0, 0],
+		[ 0, 0,-1, 0, 0]		
+	],
+	"displayPattern":
+	[
+		[ 0, 0, 1, 0, 0],
+		[ 0, 0, 0, 0, 0],
+		[ 4, 0,-1, 0, 2],
+		[ 0, 0, 0, 0, 0],
+		[ 0, 0, 3, 0, 0]	
+	],
+	"reagents":
+	[
+		"     ",
+		"     ",
+		"  H  ",
+		"     ",
+		"     "
+	],
+	"keys":
+	{
+		"H": 
+		{ 
+			"item": "mana-and-artifice:monster_heads",
+			"optional": false,
+			"consume": false			
+		}
+	},
+	"manaweave":
+	[
+		"mana-and-artifice:manaweave_patterns/square"
+	],
+	"parameters":
+	{
+		"innerColor": "0x000000",
+		"outerColor": "0xFFFF00",
+		"displayIndexes": false
+	}
+}

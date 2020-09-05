@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"CWC",
+  	"RNL",
+  	"CBC"
+  ],
+  "key": {
+  	"C": {
+  		"item": "minecraft:clay_ball"
+  	},
+  	"W": {
+  		"item": "mana-and-artifice:stone_rune_white"
+  	},
+  	"R": {
+  		"item": "mana-and-artifice:stone_rune_red"
+  	},
+  	"N": {
+  		"item": "mana-and-artifice:stone_rune_blank"
+  	},
+  	"L": {
+  		"item": "mana-and-artifice:stone_rune_blue"
+  	},
+  	"B": {
+  		"item": "mana-and-artifice:stone_rune_brown"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:rune_clay_plate"
+  }
+}

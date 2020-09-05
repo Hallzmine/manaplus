@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_water",
+	"rune_enchant": "minecraft:frost_walker",	
+	"level": 1,
+	"items":
+	[		
+		"minecraft:ice",
+		"minecraft:ice",
+		"minecraft:snowball",
+		"minecraft:snowball",		
+		"minecraft:phantom_membrane",
+		"minecraft:leather_boots"
+	]
+}

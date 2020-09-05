@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"VVV",
+  	"QCQ",
+  	"Q Q"
+  ],
+  "key": {
+  	"V": {
+  		"item": "mana-and-artifice:vinteum_dust"
+  	},
+  	"C": {
+  		"item": "minecraft:coal_block"
+  	},
+  	"Q": {
+  		"item": "minecraft:quartz_block"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:brazier"    
+  }
+}

@@ -1,0 +1,22 @@
+{
+	"type": "mana-and-artifice:component",
+	"tier": 2,
+	"output": "mana-and-artifice:frost_damage",
+	"items":
+	[
+		"mana-and-artifice:stone_rune_cyan",
+		"mana-and-artifice:stone_rune_light_blue",
+		"mana-and-artifice:stone_rune_white",
+		"mana-and-artifice:stone_rune_blue",
+		"ice",
+		"ice",
+		"snowball",
+		"snowball"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/inverted_triangle",
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle"
+	]
+}

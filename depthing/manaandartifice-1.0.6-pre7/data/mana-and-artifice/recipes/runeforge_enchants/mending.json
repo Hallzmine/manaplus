@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_earth",
+	"rune_enchant": "minecraft:mending",	
+	"level": 1,
+	"items":
+	[								
+		"mana-and-artifice:enchantment_focus_arcane",
+		"mana-and-artifice:enchantment_focus_arcane",
+		"minecraft:anvil",
+		"mana-and-artifice:runesmith_hammer",
+		"minecraft:dragon_breath",
+		"minecraft:nether_star",
+		"minecraft:grindstone",
+		"minecraft:brick"
+	]
+}

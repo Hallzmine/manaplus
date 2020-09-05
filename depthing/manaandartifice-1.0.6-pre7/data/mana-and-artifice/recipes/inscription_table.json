@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"BBB",
+  	"SCS",
+  	"W W"
+  ],
+  "key": {
+  	"B": {
+  		"item": "minecraft:book"
+  	},
+  	"C": {
+  		"item": "minecraft:purple_carpet"
+  	},
+  	"W": {
+  		"tag": "minecraft:planks"
+  	},
+  	"S": {
+  		"tag": "minecraft:slabs"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:inscription_table"    
+  }
+}

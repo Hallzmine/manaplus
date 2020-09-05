@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_aura",
+	"rune_enchant": "mana-and-artifice:aura-waterbreathing",
+	"level": 1,
+	"items":
+	[				
+		"mana-and-artifice:enchantment_focus_water",
+		"minecraft_turtle_shell",
+		"minecraft:nautilus_shell",
+		"minecraft:heart_of_the_sea",
+		"minecraft:pufferfish",
+		"minecraft:pufferfish",
+		"mana-and-artifice:wakebloom",
+		"mana-and-artifice:wakebloom"
+	]
+}

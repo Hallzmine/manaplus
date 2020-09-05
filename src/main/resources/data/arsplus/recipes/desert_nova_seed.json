@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mana-and-artifice:wakebloom"
+    },
+    {
+      "item": "minecraft:cactus"
+    }
+  ],
+  "result": {
+    "item": "arsplus:desert_nova_seed",
+    "count": 1
+  }
+}

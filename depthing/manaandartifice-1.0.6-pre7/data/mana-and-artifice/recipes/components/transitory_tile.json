@@ -1,0 +1,20 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:transitory_tile",
+	"tier": 2,
+	"items":
+	[
+		"mana-and-artifice:stone_rune_magenta",
+		"mana-and-artifice:stone_rune_purple",
+		"mana-and-artifice:stone_rune_blue",
+		"dirt",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:vinteum_dust"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/square"
+	]
+}

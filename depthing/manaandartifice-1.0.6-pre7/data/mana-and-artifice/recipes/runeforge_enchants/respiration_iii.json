@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_water",
+	"rune_enchant": "minecraft:respiration",	
+	"level": 3,
+	"items":
+	[
+		"minecraft:bubble_coral",
+		"minecraft:bubble_coral",
+		"mana-and-artifice:stone_rune_white",
+		"mana-and-artifice:stone_rune_light_blue",
+		"mana-and-artifice:stone_rune_white",
+		"mana-and-artifice:stone_rune_light_blue",
+		"mana-and-artifice:enchantment_focus_water",
+		"mana-and-artifice:enchantment_focus_water"
+	]
+}

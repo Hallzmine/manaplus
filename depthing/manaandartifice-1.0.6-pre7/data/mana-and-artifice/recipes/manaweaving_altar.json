@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"OWO",
+  	"SOS",
+  	" O "
+  ],
+  "key": {
+  	"O": {
+  		"item": "minecraft:obsidian"
+  	},
+  	"W": {
+  		"item": "minecraft:water_bucket"
+  	},
+  	"S": {
+  		"item": "minecraft:stone"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:manaweaving_altar"    
+  }
+}

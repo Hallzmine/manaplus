@@ -1,0 +1,52 @@
+{
+	"type": "mana-and-artifice:ritual",
+	"tier": 2,
+	"pattern":
+	[
+		[ 0, 0, 0, 4, 0, 0, 0 ],
+		[ 0, 0, 0, 8, 0, 0, 0 ],
+		[ 0, 0, 0, 0, 0, 0, 0 ],
+		[ 3,10, 0,13, 0,11, 5 ],
+		[ 0, 0, 0, 0, 0, 0, 0 ],
+		[ 0, 0, 7, 0, 9, 0, 0 ],
+		[ 0, 2, 0, 0, 0, 1, 0 ]
+	],	
+	"reagents":
+	[
+		"   D   ",
+		"       ",
+		"       ",
+		"D  F  D",
+		"       ",
+		"       ",
+		" D   D "
+	],
+	"keys":
+	{
+		"F": 
+		{ 
+			"item": "mana-and-artifice:enchantment_focus_fire",
+			"optional": false,
+			"consume": true
+		},
+		"D":
+		{
+			"item": "minecraft:diamond",
+			"optional": false,
+			"consume": true
+		}
+	},
+	"manaweave":
+	[
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle",
+		"mana-and-artifice:manaweave_patterns/diamond",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle"
+	],
+	"parameters":
+	{
+		"innerColor": "0x553300",
+		"outerColor": "0xCC0000",
+		"displayIndexes": false
+	}
+}

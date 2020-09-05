@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_earth",
+	"rune_enchant": "minecraft:fire_aspect",	
+	"level": 3,
+	"items":
+	[
+		"minecraft:lava_bucket",
+		"minecraft:flint_and_steel",
+		"minecraft:firework_rocket",
+		"minecraft:firework_rocket",
+		"minecraft:blaze_powder",
+		"minecraft:blaze_powder",
+		"mana-and-artifice:enchantment_focus_fire"
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_aura",
+	"rune_enchant": "mana-and-artifice:aura-healing",
+	"level": 1,
+	"items":
+	[
+		"minecraft:glistering_melon_slice",
+		"minecraft:glistering_melon_slice",
+		"minecraft:glistering_melon_slice",
+		"minecraft:glistering_melon_slice",
+		"minecraft:end_crystal",
+		"minecraft:end_crystal",
+		"minecraft:diamond_block",
+		"minecraft:diamond_block"
+	]
+}

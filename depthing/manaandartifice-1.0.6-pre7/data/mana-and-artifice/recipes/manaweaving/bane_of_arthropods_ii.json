@@ -1,0 +1,16 @@
+{
+  "type": "mana-and-artifice:manaweaving-recipe",
+  "tier": 4,
+  "output": "mana-and-artifice:rune_fire",
+  "enchant": "minecraft:bane_of_arthropods",
+  "magnitude": 2,
+  "items": [
+    "minecraft:spider_eye",
+    "minecraft:paper",
+    "mana-and-artifice:rune_fire"
+  ],
+  "patterns": [
+    "mana-and-artifice:triangle",
+    "mana-and-artifice:knot3"
+  ]
+}

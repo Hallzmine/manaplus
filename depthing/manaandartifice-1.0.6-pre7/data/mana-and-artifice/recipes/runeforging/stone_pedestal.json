@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	" P ",
+  	"WSW",
+  	"SSS"
+  ],
+  "key": {
+  	"P": {
+  		"item": "minecraft:stone_pressure_plate"
+  	},
+  	"W": {
+  		"tag": "minecraft:planks"
+  	},
+  	"S": {
+  		"item": "minecraft:stone"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:pedestal"    
+  }
+}

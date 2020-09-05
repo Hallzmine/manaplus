@@ -1,0 +1,20 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:light",
+	"tier": 1,
+	"items":
+	[
+		"minecraft:torch",
+		"minecraft:torch",
+		"minecraft:glowstone_dust",
+		"minecraft:glowstone_dust",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:vinteum_dust"		
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/square",
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/circle"
+	]
+}

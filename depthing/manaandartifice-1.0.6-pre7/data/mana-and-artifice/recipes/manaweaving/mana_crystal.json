@@ -1,0 +1,26 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"output": {
+		"item": "mana-and-artifice:mana_crystal"
+	},
+	"tier": 2,
+	"items": [		
+		"mana-and-artifice:rune_arcane",
+		"mana-and-artifice:mana_crystal_fragment",
+		"mana-and-artifice:mana_crystal_fragment",
+		"mana-and-artifice:mana_crystal_fragment",
+		"mana-and-artifice:mana_crystal_fragment",
+		"mana-and-artifice:mana_crystal_fragment",
+		"mana-and-artifice:mana_crystal_fragment",
+		"mana-and-artifice:mana_crystal_fragment",
+		"mana-and-artifice:mana_crystal_fragment"		
+	],
+	"patterns": [
+		"mana-and-artifice:circle",
+		"mana-and-artifice:diamond",
+		"mana-and-artifice:square",
+		"mana-and-artifice:diamond",
+		"mana-and-artifice:circle",
+		"mana-and-artifice:square"
+	]
+}

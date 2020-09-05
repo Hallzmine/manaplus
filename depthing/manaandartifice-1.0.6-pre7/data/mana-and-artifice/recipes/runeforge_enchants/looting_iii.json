@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_ender",
+	"rune_enchant": "minecraft:looting",	
+	"level": 3,
+	"items":
+	[						
+		"minecraft:eye_of_ender",
+		"minecraft:phantom_membrane",
+		"mana-and-artifice:enchantment_focus_ender",
+		"mana-and-artifice:enchantment_focus_ender",
+		"minecraft:end_crystal",
+		"minecraft:end_crystal",
+		"minecraft:nether_star",
+		"minecraft:golden_apple"
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_fire",
+	"rune_enchant": "minecraft:smite",	
+	"level": 2,
+	"items":
+	[
+		"mana-and-artifice:stone_rune_yellow",
+		"mana-and-artifice:stone_rune_orange",
+		"mana-and-artifice:stone_rune_red",
+		"mana-and-artifice:stone_rune_white",
+		"minecraft:skeleton_skull",
+		"mana-and-artifice:superheated_vinteum_ingot"		
+	]
+}

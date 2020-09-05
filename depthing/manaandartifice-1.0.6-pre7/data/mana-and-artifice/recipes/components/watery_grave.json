@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:component",
+	"tier": 4,
+	"output": "mana-and-artifice:watery_grave",
+	"items":
+	[
+		"minecraft:all_concrete",
+		"minecraft:all_concrete",
+		"mana-and-artifice:vinteum_dust",
+		"minecraft:iron_boots",
+		"minecraft:lead"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/inverted_triangle",
+		"mana-and-artifice:manaweave_patterns/circle"
+	]
+}

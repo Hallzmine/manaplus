@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"VVV",
+  	"VVV",
+  	"VVV"
+  ],
+  "key": {
+  	"V": {
+  		"item": "mana-and-artifice:vinteum_ingot"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:vinteum_block"
+  }
+}

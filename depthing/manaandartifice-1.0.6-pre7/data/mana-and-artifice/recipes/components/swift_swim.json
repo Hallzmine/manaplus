@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:swift_swim",
+	"tier": 3,
+	"items":
+	[
+		"minecraft:cod",
+		"minecraft:cod",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:wakebloom",
+		"mana-and-artifice:wakebloom"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/diamond",
+		"mana-and-artifice:manaweave_patterns/triangle"
+	]
+}

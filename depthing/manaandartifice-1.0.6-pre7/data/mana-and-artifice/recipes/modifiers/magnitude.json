@@ -1,0 +1,19 @@
+{
+	"type": "mana-and-artifice:modifier",
+	"output": "mana-and-artifice:magnitude",
+	"tier": 3,
+	"items":
+	[
+		"brewing_stand",
+		"mana-and-artifice:chimerite_gem",
+		"diamond",
+		"mana-and-artifice:tarma_root",
+		"mana-and-artifice:rune_earth"
+	],
+	"patterns":
+	[		
+		"mana-and-artifice:manaweave_patterns/split_triangle",
+		"mana-and-artifice:manaweave_patterns/knot4",
+		"mana-and-artifice:manaweave_patterns/triangle"		
+	]
+}

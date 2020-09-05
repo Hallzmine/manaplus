@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:gust",
+	"tier": 1,
+	"items":
+	[
+		"mana-and-artifice:stone_rune_white",	
+		"minecraft:wheat_seeds",
+		"minecraft:feather",
+		"minecraft:dandelion",
+		"minecraft:poppy"		
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/triangle"
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 5,
+	"output": "mana-and-artifice:rune_aura",
+	"enchant": "mana-and-artifice:aura-mining",
+	"magnitude": 3,
+	"items":
+	[
+		"mana-and-artifice:rune_aura",
+		"minecraft:diamond_pickaxe",
+		"minecraft:experience_bottle"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:square",
+		"mana-and-artifice:infinity"		
+	]
+}

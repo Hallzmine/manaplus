@@ -1,0 +1,14 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 2,
+	"output": "mana-and-artifice:magic_broom",		
+	"items": [
+		"minecraft:stick",
+		"minecraft:hay_block",
+		"mana-and-artifice:rune_air"
+	],
+	"patterns": [
+		"mana-and-artifice:circle",
+		"mana-and-artifice:knot"
+	]
+}

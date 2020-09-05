@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_air",
+	"rune_enchant": "minecraft:feather_falling",	
+	"level": 3,
+	"items":
+	[
+		"minecraft:lapis_lazuli",
+		"minecraft:feather",
+		"minecraft:feather",
+		"minecraft:feather",
+		"minecraft:feather",
+		"minecraft:hay_block",
+		"minecraft:hay_block",
+		"mana-and-artifice:enchantment_focus_air"
+	]
+}

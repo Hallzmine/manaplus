@@ -1,0 +1,24 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 5,
+	"output": "mana-and-artifice:rune_ender",
+	"enchant": "minecraft:soul_speed",
+	"magnitude": 3,
+	"items": [
+		"mana-and-artifice:rune_ender",		
+		"mana-and-artifice:enchantment_focus_ender",
+		"mana-and-artifice:enchantment_focus_ender",
+		"minecraft:soul_sand",
+		"minecraft:soul_sand",
+		"minecraft:soul_sand",
+		"minecraft:soul_sand",
+		"minecraft:soul_sand",
+		"minecraft:soul_sand"
+	],
+	"patterns": [
+		"mana-and-artifice:square",
+		"mana-and-artifice:split_triangle",
+		"mana-and-artifice:square",
+		"mana-and-artifice:triangle"
+	]
+}

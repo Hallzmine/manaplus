@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 4,
+	"output": "mana-and-artifice:rune_water",
+	"enchant": "minecraft:frost_walker",
+	"magnitude": 2,
+	"items": [
+		"mana-and-artifice:rune_water",
+		"minecraft:ice"
+	],
+	"patterns": [
+		"mana-and-artifice:square",
+		"mana-and-artifice:circle",
+		"mana-and-artifice:square"
+	]
+}

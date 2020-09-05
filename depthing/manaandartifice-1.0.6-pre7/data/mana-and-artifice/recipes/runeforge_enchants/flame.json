@@ -1,0 +1,14 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_fire",
+	"rune_enchant": "minecraft:flame",	
+	"level": 1,
+	"items":
+	[
+		"mana-and-artifice:enchantment_focus_fire",
+		"minecraft:arrow",
+		"minecraft:flint",
+		"minecraft:gunpowder"
+	]
+}

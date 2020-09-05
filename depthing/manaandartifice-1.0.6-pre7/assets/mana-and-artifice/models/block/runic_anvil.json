@@ -1,0 +1,31 @@
+{
+  "parent": "forge:item/default",
+  "loader": "forge:composite",
+  "textures": {
+  	"particle": "minecraft:block/anvil"
+  },
+  "parts": {
+    "barrel": {
+      "loader": "forge:obj",
+      "detectCullableFaces": true,
+	  "diffuseLighting": true,
+	  "flip-v": true,
+	  "ambientToFullbright": false,
+      "model": "mana-and-artifice:models/block/obj/barrel.obj",
+      "textures": {
+        "#Barrel": "mana-and-artifice:block/material/barrel"
+      }
+    },
+    "anvil": {
+      "loader": "forge:obj",
+      "detectCullableFaces": true,
+	  "diffuseLighting": true,
+	  "flip-v": true,
+	  "ambientToFullbright": false,
+      "model": "mana-and-artifice:models/block/obj/runic_anvil.obj",
+      "textures": {
+        "#Ring": "mana-and-artifice:block/material/runic_anvil"
+      }
+    }
+  }
+}

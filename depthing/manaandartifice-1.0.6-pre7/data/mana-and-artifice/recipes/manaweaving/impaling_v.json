@@ -1,0 +1,19 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 5,
+	"output": "mana-and-artifice:rune_water",
+	"enchant": "minecraft:impaling",
+	"magnitude": 5,
+	"items": [
+		"mana-and-artifice:rune_water",
+		"minecraft:ghast_tear",
+		"minecraft:heavy_weighted_pressure_plate"
+	],
+	"patterns": [
+		"mana-and-artifice:triangle",
+		"mana-and-artifice:triangle",
+		"mana-and-artifice:triangle",
+		"mana-and-artifice:triangle",
+		"mana-and-artifice:triangle"
+	]
+}

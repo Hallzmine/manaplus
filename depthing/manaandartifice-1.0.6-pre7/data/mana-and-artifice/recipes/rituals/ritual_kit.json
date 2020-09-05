@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	" I ",
+  	"SWS",
+  	"III"
+  ],
+  "key": {
+  	"W": {
+  		"item": "mana-and-artifice:wizard_chalk"
+  	},
+  	"S": {
+  		"item": "minecraft:string"
+  	},
+  	"I": {
+  		"item": "mana-and-artifice:infused_silk"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:ritual_kit"    
+  }
+}

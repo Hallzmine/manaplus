@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_earth",
+	"rune_enchant": "minecraft:unbreaking",	
+	"level": 2,
+	"items":
+	[				
+		"minecraft:anvil",
+		"mana-and-artifice:stone_rune_gray",
+		"mana-and-artifice:stone_rune_light_gray",
+		"minecraft:diamond",
+		"minecraft:diamond",
+		"minecraft:diamond",
+		"minecraft:diamond",
+		"minecraft:blaze_powder"
+	]
+}

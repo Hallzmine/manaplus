@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[33,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/Mithion/Mana-And-Artifice/issues"
+
+[[mods]]
+ 
+modId="mana-and-artifice"
+version="1.0.6-pre7"
+displayName="Mana and Artifice"
+updateJSONURL="https://manaandartifice.com/update.json"
+displayURL="https://manaandartifice.com/"
+logoFile="mana-and-artifice.png"
+credits="Thanks to everyone who helped to moderate the discord channel, suggest ideas, collaborate, test, and provide feedback.  There are far too many to list here, but I am so grateful to you all."
+authors="Mithion" #optional
+description='''
+A splash of magic returns to Minecraft.
+'''
+
+[[dependencies.mana-and-artifice]]
+    modId="forge"
+    mandatory=true
+    versionRange="[33,)"
+    ordering="NONE"
+    side="BOTH"
+	
+[[dependencies.mana-and-artifice]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.2]"
+    ordering="NONE"
+    side="BOTH"

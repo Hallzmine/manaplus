@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_air",
+	"rune_enchant": "minecraft:punch",	
+	"level": 1,
+	"items":
+	[
+		"minecraft:gunpowder",
+		"minecraft:gunpowder",
+		"minecraft:arrow",
+		"minecraft:bow",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:vinteum_dust"
+	]
+}

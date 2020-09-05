@@ -1,0 +1,15 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_water",
+	"rune_enchant": "minecraft:channeling",
+	"level": 1,	
+	"items":
+	[		
+		"minecraft:prismarine_crystals",
+		"mana-and-artifice:chimerite_gem",
+		"mana-and-artifice:tarma_root",
+		"mana-and-artifice:enchantment_focus_water",
+		"minecraft:lapis_lazuli"
+	]
+}

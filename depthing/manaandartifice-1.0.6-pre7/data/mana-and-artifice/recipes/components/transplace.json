@@ -1,0 +1,20 @@
+{
+	"type": "mana-and-artifice:component",
+	"tier": 4,
+	"output": "mana-and-artifice:transplace",
+	"items":
+	[
+		"mana-and-artifice:stone_rune_magenta",
+		"mana-and-artifice:stone_rune_purple",		
+		"mana-and-artifice:vinteum_dust",
+		"ender_pearl",		
+		"mana-and-artifice:stone_rune_purple",
+		"mana-and-artifice:stone_rune_magenta"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/circle",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle"
+	]
+}

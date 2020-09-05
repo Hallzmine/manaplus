@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"tier": 2,
+	"output": "mana-and-artifice:flat_lands_book",		
+	"items": [
+		"minecraft:book",
+		"minecraft:diamond_pickaxe",
+		"mana-and-artifice:enchantment_focus_earth"
+	],
+	"patterns": [
+		"mana-and-artifice:square",
+		"mana-and-artifice:triangle",
+		"mana-and-artifice:knot",
+		"mana-and-artifice:inverted_triangle",
+		"mana-and-artifice:square"
+	]
+}

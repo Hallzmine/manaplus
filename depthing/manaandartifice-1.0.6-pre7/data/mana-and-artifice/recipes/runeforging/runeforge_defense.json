@@ -1,0 +1,6 @@
+{
+	"type": "mana-and-artifice:runeforging",
+	"tier": 2,
+	"pattern": "mana-and-artifice:rune_pattern_defense",
+	"output": "mana-and-artifice:rune_defense"
+}

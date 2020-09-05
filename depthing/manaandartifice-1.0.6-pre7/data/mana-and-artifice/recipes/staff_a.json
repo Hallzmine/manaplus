@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+  	"  C",
+  	" S ",
+  	"S  "
+  ],
+  "key": {
+  	"S": {
+  		"item": "minecraft:stick"
+  	},
+  	"C": {
+  		"item": "mana-and-artifice:chimerite_gem"
+  	}
+  },
+  "result": {
+    "item": "mana-and-artifice:staff_a"    
+  }
+}

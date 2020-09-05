@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_arcane",
+	"rune_enchant": "minecraft:silk_touch",	
+	"level": 1,
+	"items":
+	[
+		"mana-and-artifice:enchantment_focus_arcane",
+		"mana-and-artifice:enchantment_focus_arcane",
+		"mana-and-artifice:runic_silk",
+		"mana-and-artifice:runic_silk",
+		"mana-and-artifice:infused_silk",
+		"mana-and-artifice:infused_silk",
+		"minecraft:clay_ball",
+		"minecraft:clay_ball"
+	]
+}

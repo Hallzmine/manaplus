@@ -1,0 +1,19 @@
+{
+	"type": "mana-and-artifice:component",
+	"tier": 1,
+	"output": "mana-and-artifice:fling",
+	"items":
+	[
+		"mana-and-artifice:stone_rune_white",
+		"mana-and-artifice:stone_rune_gray",
+		"mana-and-artifice:runesmith_hammer",
+		"mana-and-artifice:stone_rune_white",
+		"mana-and-artifice:vinteum_dust",
+		"horn_coral"		
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/circle",
+		"mana-and-artifice:manaweave_patterns/triangle"
+	]
+}

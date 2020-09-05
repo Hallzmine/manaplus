@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_arcane",
+	"rune_enchant": "minecraft:fortune",	
+	"level": 3,
+	"items":
+	[
+		"mana-and-artifice:enchantment_focus_arcane",
+		"minecraft:diamond_block",
+		"minecraft:diamond_block",
+		"minecraft:emerald_block",
+		"minecraft:emerald_block",
+		"minecraft:golden_carrot",
+		"minecraft:phantom_membrane",
+		"minecraft:phantom_membrane"
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"output": "mana-and-artifice:arcane_sentry",
+	"tier": 3,
+	"items": [
+		"mana-and-artifice:rune_defense",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:wizard_chalk",
+		"mana-and-artifice:spell_book"
+	],
+	"patterns": [
+		"mana-and-artifice:circle",
+		"mana-and-artifice:knot",
+		"mana-and-artifice:knot2",
+		"mana-and-artifice:knot3",
+		"mana-and-artifice:knot4",
+		"mana-and-artifice:circle"
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_water",
+	"rune_enchant": "minecraft:luck_of_the_sea",	
+	"level": 2,
+	"items":
+	[						
+		"minecraft:tropical_fish",
+		"minecraft:salmon",		
+		"minecraft:boat",
+		"minecraft:nautilus_shell",
+		"minecraft:ink_sac",
+		"minecraft:name_tag",
+		"minecraft:lily_pad",
+		"mana-and-artifice:enchantment_focus_water"
+	]
+}

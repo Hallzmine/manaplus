@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iron"
+    },
+    {
+      "item": "mana-and-artifice:vinteum_dust"
+    }
+  ],
+  "result": {
+    "item": "mana-and-artifice:vinteum_coated_iron"
+  }
+}

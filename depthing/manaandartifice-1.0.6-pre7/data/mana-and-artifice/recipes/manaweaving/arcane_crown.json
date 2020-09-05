@@ -1,0 +1,22 @@
+{
+	"type": "mana-and-artifice:manaweaving-recipe",
+	"output": "mana-and-artifice:arcane_crown",
+	"tier": 5,
+	"requiredFaction": "ANCIENT_WIZARDS",
+	"items": [
+		"mana-and-artifice:enchantment_focus_arcane",
+		"mana-and-artifice:enchantment_focus_arcane",
+		"mana-and-artifice:rune_arcane",
+		"mana-and-artifice:rune_arcane",
+		"minecraft:nether_star",
+		"minecraft:enchanted_book",
+		"minecraft:golden_helmet",
+		"minecraft:diamond",
+		"minecraft:diamond"
+	],
+	"patterns": [
+		"mana-and-artifice:hourglass",
+		"mana-and-artifice:infinity",
+		"mana-and-artifice:split_triangle"
+	]
+}

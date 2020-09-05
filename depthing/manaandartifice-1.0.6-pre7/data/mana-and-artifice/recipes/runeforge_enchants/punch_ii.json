@@ -1,0 +1,16 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_air",
+	"rune_enchant": "minecraft:punch",	
+	"level": 2,
+	"items":
+	[
+		"minecraft:tnt",
+		"minecraft:tnt",
+		"minecraft:arrow",
+		"minecraft:bow",
+		"mana-and-artifice:arcane_ash",
+		"mana-and-artifice:arcane_ash"
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 5,
+	"rune": "mana-and-artifice:rune_air",
+	"rune_enchant": "minecraft:feather_falling",	
+	"level": 4,
+	"items":
+	[
+		"minecraft:lapis_block",
+		"minecraft:feather",
+		"minecraft:feather",
+		"minecraft:cooked_chicken",
+		"minecraft:cooked_chicken",
+		"minecraft:hay_block",
+		"minecraft:hay_block",
+		"mana-and-artifice:enchantment_focus_air"
+	]
+}

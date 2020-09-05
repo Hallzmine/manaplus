@@ -1,0 +1,24 @@
+{
+	"type": "mana-and-artifice:component",
+	"output": "mana-and-artifice:lightning_damage",
+	"tier": 3,
+	"items":
+	[
+		"mana-and-artifice:stone_rune_yellow",
+		"mana-and-artifice:stone_rune_white",
+		"mana-and-artifice:stone_rune_blue",
+		"redstone",
+		"glowstone",
+		"mana-and-artifice:vinteum_dust",
+		"iron_bars",
+		"iron_bars"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/inverted_triangle",
+		"mana-and-artifice:manaweave_patterns/knot2",
+		"mana-and-artifice:manaweave_patterns/split_triangle",
+		"mana-and-artifice:manaweave_patterns/knot4",
+		"mana-and-artifice:manaweave_patterns/triangle"
+	]
+}

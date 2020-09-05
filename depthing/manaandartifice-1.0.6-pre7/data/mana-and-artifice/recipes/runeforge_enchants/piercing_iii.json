@@ -1,0 +1,17 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 4,
+	"rune": "mana-and-artifice:rune_air",
+	"rune_enchant": "minecraft:piercing",	
+	"level": 3,
+	"items":
+	[								
+		"minecraft:firework_rocket",
+		"minecraft:arrow",
+		"minecraft:tripwire_hook",
+		"minecraft:tripwire_hook",
+		"minecraft:string",
+		"minecraft:string",
+		"mana-and-artifice:enchantment_focus_air"
+	]
+}

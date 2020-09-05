@@ -1,0 +1,76 @@
+{
+	"type": "mana-and-artifice:ritual",	
+	"tier": 2,
+	"pattern":
+	[
+		[ 0,15,-1,16,-1,17, 0 ],
+		[14,-1,-1,-1,-1,-1,18 ],
+		[13,-1,12,10,20,-1,19 ],
+		[ 0,22, 0, 9, 0, 0,24 ],
+		[ 0, 0, 0, 8, 0, 0,25 ],
+		[ 0, 0, 2, 7, 3, 0, 0 ],
+		[ 0, 1,-1, 5,-1, 4, 0 ]
+	],	
+	"reagents":
+	[
+		" L A L ",
+		"L     L",
+		"L LPL L",
+		" V P  V",
+		"   P  V",
+		"  PPP  ",
+		" D W D "
+	],
+	"keys":
+	{
+		"L": 
+		{ 
+			"item": "minecraft:leaves",
+			"optional": false,
+			"consume": true
+		},
+		"A":
+		{
+			"item": "mana-and-artifice:enchantment_focus_air",
+			"optional": false,
+			"consume": true
+		},
+		"V":
+		{
+			"item": "minecraft:vine",
+			"optional": false,
+			"consume": true
+		},
+		"P":
+		{
+			"item": "minecraft:logs",
+			"optional": false,
+			"consume": true
+		},
+		"D":
+		{
+			"item": "minecraft:dirt",
+			"optional": false,
+			"consume": true
+		},
+		"W":
+		{
+			"item": "mana-and-artifice:enchantment_focus_water",
+			"optional": false,
+			"consume": true
+		}
+	},
+	"manaweave":
+	[
+		"mana-and-artifice:manaweave_patterns/triangle",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle",
+		"mana-and-artifice:manaweave_patterns/circle",
+		"mana-and-artifice:manaweave_patterns/inverted_triangle"
+	],
+	"parameters":
+	{
+		"innerColor": "0x00CC00",
+		"outerColor": "0x6600FF",
+		"displayIndexes": false
+	}
+}

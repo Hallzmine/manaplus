@@ -1,0 +1,7 @@
+{
+	"type": "mana-and-artifice:arcane-furnace",
+	"tier": 2,
+	"input": "mana-and-artifice:rune_clay_plate",
+	"output": "mana-and-artifice:rune_pattern",
+	"burnTime": 200
+}

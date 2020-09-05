@@ -1,0 +1,22 @@
+{
+	"type": "mana-and-artifice:component",
+	"tier": 5,
+	"output": "mana-and-artifice:chrono_anchor",
+	"items":
+	[
+		"minecraft:sand",
+		"minecraft:sand",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:vinteum_dust",
+		"mana-and-artifice:enchantment_focus_arcane"
+	],
+	"patterns":
+	[
+		"mana-and-artifice:manaweave_patterns/hourglass",
+		"mana-and-artifice:manaweave_patterns/infinity",
+		"mana-and-artifice:manaweave_patterns/split_triangle",
+		"mana-and-artifice:manaweave_patterns/infinity",
+		"mana-and-artifice:manaweave_patterns/hourglass",
+		"mana-and-artifice:manaweave_patterns/split_triangle"
+	]
+}

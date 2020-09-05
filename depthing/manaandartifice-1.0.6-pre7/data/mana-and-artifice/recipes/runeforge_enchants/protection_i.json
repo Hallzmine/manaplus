@@ -1,0 +1,15 @@
+{
+	"type": "mana-and-artifice:runeforge-enchant",
+	"tier": 3,
+	"rune": "mana-and-artifice:rune_earth",
+	"rune_enchant": "minecraft:protection",	
+	"level": 1,
+	"items":
+	[								
+		"minecraft:leather_boots",
+		"minecraft:leather_leggings",
+		"minecraft:leather_chestplate",
+		"minecraft:leather_helmet",
+		"mana-and-artifice:rune_defense"
+	]
+}
