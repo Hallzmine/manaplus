@@ -2,7 +2,6 @@ package ga.hallzmine.arsplus;
 
 import com.ma.api.rituals.RitualEffect;
 import ga.hallzmine.arsplus.util.RegistryHandler;
-import ga.hallzmine.arsplus.util.RitualRegistryHandler;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.client.renderer.RenderType;
@@ -44,7 +43,6 @@ public class ArsPlus
 
         RegistryHandler.init();
 
-        modEventBus.register(new RitualRegistryHandler());
         MinecraftForge.EVENT_BUS.register(this);
     }
 

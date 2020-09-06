@@ -10,7 +10,7 @@ import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.IForgeRegistry;
-
+/*
 @Mod.EventBusSubscriber(
         modid = "arsplus",
         bus = Mod.EventBusSubscriber.Bus.MOD
@@ -25,3 +25,4 @@ public class RitualRegistryHandler {
         ArsPlus.LOGGER.debug("Hallzmine's Mana+: Rituals Registered");
     }
 }
+*/

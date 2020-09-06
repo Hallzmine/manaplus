@@ -3,8 +3,7 @@ package ga.hallzmine.arsplus.rituals.effects;
 
 import com.ma.api.recipes.IRitualRecipe;
 import com.ma.api.rituals.RitualEffect;
-import com.ma.entities.EntityInit;
-import com.ma.entities.rituals.EntityPortal;
+import com.ma.recipes.rituals.RitualRecipe;
 import net.minecraft.entity.Entity;
 import net.minecraft.entity.EntityType;
 import net.minecraft.entity.SpawnReason;
@@ -31,15 +30,18 @@ public class RitualEffectFlowerPlains extends RitualEffect {
         super(ritualName);
     }
 
-    protected boolean applyRitualEffect(PlayerEntity ritualCaster, ServerWorld world, BlockPos ritualCenter, IRitualRecipe completedRecipe , NonNullList<ItemStack> reagents) {
-
+    @Override
+    protected boolean applyRitualEffect(PlayerEntity playerEntity, ServerWorld serverWorld, BlockPos blockPos, IRitualRecipe iRitualRecipe, NonNullList<ItemStack> nonNullList) {
         ResourceLocation location = new ResourceLocation("arsplus:flower_plains");
         RegistryKey<World> key = RegistryKey.func_240903_a_(Registry.field_239699_ae_, location);
-        ritualCaster.changeDimension(world, (ITeleporter) world.getServer().getWorld(key));
+        playerEntity.changeDimension(serverWorld, (ITeleporter) serverWorld.getServer().getWorld(key));
         return true;
     }
 
-    protected int getApplicationTicks(ServerWorld world, BlockPos ritualCenter, IRitualRecipe completedrecipe, NonNullList<ItemStack> reagents) {
+
+    @Override
+    protected int getApplicationTicks(ServerWorld world, BlockPos ritualCenter, IRitualRecipe completedrecipe,
+                                      NonNullList reagents) {
         return 10;
     }
 }
