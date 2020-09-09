@@ -2,10 +2,10 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "item": "arsplus:cerublossom_seed"
+      "item": "mana-and-artifice:cerublossom"
     },
     {
-      "item": "minecraft:kelp"
+      "item": "mana-and-artifice:purified_vinteum_dust"
     },
     {
       "item": "mana-and-artifice:purified_vinteum_dust"
@@ -15,7 +15,7 @@
     }
   ],
   "result": {
-    "item": "arsplus:wakebloom_seed",
+    "item": "arsplus:cerublossom_seed",
     "count": 1
   }
 }

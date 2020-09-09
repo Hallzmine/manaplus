@@ -55,6 +55,8 @@ public class ArsPlus
         RenderTypeLookup.setRenderLayer(RegistryHandler.DESERT_NOVA_CROP.get(), RenderType.getCutout());
         RenderTypeLookup.setRenderLayer(RegistryHandler.TARMA_ROOT_CROP.get(), RenderType.getCutout());
         RenderTypeLookup.setRenderLayer(RegistryHandler.WAKEBLOOM_CROP.get(), RenderType.getCutout());
+        RenderTypeLookup.setRenderLayer(RegistryHandler.AUM_CROP.get(), RenderType.getCutout());
+        RenderTypeLookup.setRenderLayer(RegistryHandler.CERUBLOSSOM_CROP.get(), RenderType.getCutout());
     }
 
     public static final ItemGroup TAB = new ItemGroup("arsPlusTab") {

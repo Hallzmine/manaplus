@@ -4,11 +4,11 @@ license="All rights reserved"
 #issueTrackerURL="" #optional
 [[mods]] #mandatory
 modId="arsplus" #mandatory
-version="$1.16.2-1.0.0" #mandatory
-displayName="Hallzmine's Ars Plus" #mandatory
+version="$1.16.2-1.0.1" #mandatory
+displayName="Hallzmine's Mana Plus" #mandatory
 displayURL="https://discord.gg/8tAH8CR/" #optional
 #logoFile="examplemod.png" #optional
-credits="Mithion & The people who gave me ideas." #optional
+credits="Mithion, Xyphius, and everyone in the discord." #optional
 authors="Hallzmine" #optional
 description='''
 An add on for Mithion's Mana and Artifice that adds magical crops and soon new dimensions.
@@ -30,6 +30,6 @@ side="BOTH"
 [[dependencies.arsplus]]
 modId="mana-and-artifice"
 mandatory=true
-versionRange="[1.0.6-pre7,)"
+versionRange="[1.0.6-pre9,)"
 ordering="NONE"
 side="BOTH"

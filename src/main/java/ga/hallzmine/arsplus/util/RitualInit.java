@@ -7,7 +7,7 @@ import net.minecraft.util.ResourceLocation;
 import net.minecraftforge.event.RegistryEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
-
+/*
 @Mod.EventBusSubscriber(modid="arsplus", bus = Mod.EventBusSubscriber.Bus.MOD)
 public class RitualInit {
     @SubscribeEvent
@@ -19,3 +19,4 @@ public class RitualInit {
         ArsPlus.LOGGER.debug("Hallzmine's Mana+: Rituals Registered");
     }
 }
+*/

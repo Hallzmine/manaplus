@@ -38,6 +38,8 @@ public class RegistryHandler {
     public static final RegistryObject<Item> DESERT_NOVA_SEED = ITEMS.register("desert_nova_seed", () -> new BlockItem(RegistryHandler.DESERT_NOVA_CROP.get(), new Item.Properties().group(ArsPlus.TAB)));
     public static final RegistryObject<Item> TARMA_ROOT_SEED = ITEMS.register("tarma_root_seed", () -> new BlockItem(RegistryHandler.TARMA_ROOT_CROP.get(), new Item.Properties().group(ArsPlus.TAB)));
     public static final RegistryObject<Item> WAKEBLOOM_SEED = ITEMS.register("wakebloom_seed", () -> new BlockItem(RegistryHandler.WAKEBLOOM_CROP.get(), new Item.Properties().group(ArsPlus.TAB)));
+    public static final RegistryObject<Item> AUM_SEED = ITEMS.register("aum_seed", () -> new BlockItem(RegistryHandler.AUM_CROP.get(), new Item.Properties().group(ArsPlus.TAB)));
+    public static final RegistryObject<Item> CERUBLOSSOM_SEED = ITEMS.register("cerublossom_seed", () -> new BlockItem(RegistryHandler.CERUBLOSSOM_CROP.get(), new Item.Properties().group(ArsPlus.TAB)));
 
 
 
@@ -46,6 +48,8 @@ public class RegistryHandler {
     public static final RegistryObject<Block> DESERT_NOVA_CROP = BLOCKS.register("desert_nova_crop", () -> new DesertNovaCrop(Block.Properties.from(Blocks.WHEAT)));
     public static final RegistryObject<Block> TARMA_ROOT_CROP = BLOCKS.register("tarma_root_crop", () -> new TarmaRootCrop(Block.Properties.from(Blocks.WHEAT)));
     public static final RegistryObject<Block> WAKEBLOOM_CROP = BLOCKS.register("wakebloom_crop", () -> new WakebloomCrop(Block.Properties.from(Blocks.WHEAT)));
+    public static final RegistryObject<Block> AUM_CROP = BLOCKS.register("aum_crop", () -> new AumCrop(Block.Properties.from(Blocks.WHEAT)));
+    public static final RegistryObject<Block> CERUBLOSSOM_CROP = BLOCKS.register("cerublossom_crop", () -> new CerublossomCrop(Block.Properties.from(Blocks.WHEAT)));
 
 
     //Noo not my Itemerino! Haha block go brrrrrrrrrrrrrrrrrrrrrrrrreak
