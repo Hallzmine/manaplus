@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cross",
   "textures": {
-    "cross": "arsplus:block/aum_crop/aum_crop_2"
+    "cross": "arsplus:block/aum_crop/aum_2"
   }
 }
