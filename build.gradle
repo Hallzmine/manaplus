@@ -19,9 +19,9 @@ apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 apply plugin: 'maven-publish'
 
-version = '1.0'
+version = '1.0.2'
 group = 'ga.hallzmine.arsplus' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'arsplus'
+archivesBaseName = 'mana-plus'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 
